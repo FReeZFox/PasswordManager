@@ -1,0 +1,4 @@
+[debug] [passmanager-test] Classpath dependencies List()
+[debug] [passmanager-test] Dependencies from configurations List(passmanager)
+[debug] Bloop wrote the configuration of project 'passmanager-test' to 'C:\Users\danch\Documents\ФиЛП - КР\passmanager\.bloop\passmanager-test.json'
+[success] Generated .bloop\passmanager-test.json
