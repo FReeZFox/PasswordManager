@@ -30,7 +30,8 @@ libraryDependencies ++= Seq(
   "org.scala-lang.modules" %% "scala-parser-combinators" % "2.3.0",
   "io.circe" %% "circe-core" % "0.14.6",
   "io.circe" %% "circe-generic" % "0.14.6",
-  "io.circe" %% "circe-parser" % "0.14.6"
+  "io.circe" %% "circe-parser" % "0.14.6",
+  "org.typelevel" %% "cats-effect" % "3.5.2"
 )
 
 // Here, `libraryDependencies` is a set of dependencies, and by using `+=`,

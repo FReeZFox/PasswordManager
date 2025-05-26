@@ -18,7 +18,7 @@
         "classpath": [
             "C:\\Users\\danch\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\sbt\\1.10.11\\sbt-1.10.11.jar",
             "C:\\Users\\danch\\.sbt\\boot\\scala-2.12.20\\lib\\scala-library.jar",
-            "C:\\Users\\danch\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\ch\\epfl\\scala\\sbt-bloop_2.12_1.0\\2.0.9\\sbt-bloop_2.12_1.0-2.0.9.jar",
+            "C:\\Users\\danch\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\ch\\epfl\\scala\\sbt-bloop_2.12_1.0\\2.0.10\\sbt-bloop_2.12_1.0-2.0.10.jar",
             "C:\\Users\\danch\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\main_2.12\\1.10.11\\main_2.12-1.10.11.jar",
             "C:\\Users\\danch\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-sbt\\io_2.12\\1.10.5\\io_2.12-1.10.5.jar",
             "C:\\Users\\danch\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\ch\\epfl\\scala\\bloop-config_2.12\\2.3.2\\bloop-config_2.12-2.3.2.jar",
@@ -229,7 +229,7 @@
             },
             "classpath": [
                 "C:\\Users\\danch\\Documents\\ФиЛП - КР\\passmanager\\project\\.bloop\\passmanager-build\\scala-2.12\\sbt-1.0\\classes",
-                "C:\\Users\\danch\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\ch\\epfl\\scala\\sbt-bloop_2.12_1.0\\2.0.9\\sbt-bloop_2.12_1.0-2.0.9.jar",
+                "C:\\Users\\danch\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\ch\\epfl\\scala\\sbt-bloop_2.12_1.0\\2.0.10\\sbt-bloop_2.12_1.0-2.0.10.jar",
                 "C:\\Users\\danch\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\ch\\epfl\\scala\\bloop-config_2.12\\2.3.2\\bloop-config_2.12-2.3.2.jar",
                 "C:\\Users\\danch\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\com\\github\\plokhotnyuk\\jsoniter-scala\\jsoniter-scala-core_2.12\\2.13.5.2\\jsoniter-scala-core_2.12-2.13.5.2.jar",
                 "C:\\Users\\danch\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\com\\lihaoyi\\unroll-annotation_2.12\\0.1.12\\unroll-annotation_2.12-0.1.12.jar",
@@ -241,17 +241,17 @@
                 {
                     "organization": "ch.epfl.scala",
                     "name": "sbt-bloop",
-                    "version": "2.0.9",
+                    "version": "2.0.10",
                     "configurations": "default",
                     "artifacts": [
                         {
                             "name": "sbt-bloop",
-                            "path": "C:\\Users\\danch\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\ch\\epfl\\scala\\sbt-bloop_2.12_1.0\\2.0.9\\sbt-bloop_2.12_1.0-2.0.9.jar"
+                            "path": "C:\\Users\\danch\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\ch\\epfl\\scala\\sbt-bloop_2.12_1.0\\2.0.10\\sbt-bloop_2.12_1.0-2.0.10.jar"
                         },
                         {
                             "name": "sbt-bloop",
                             "classifier": "sources",
-                            "path": "C:\\Users\\danch\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\ch\\epfl\\scala\\sbt-bloop_2.12_1.0\\2.0.9\\sbt-bloop_2.12_1.0-2.0.9-sources.jar"
+                            "path": "C:\\Users\\danch\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\ch\\epfl\\scala\\sbt-bloop_2.12_1.0\\2.0.10\\sbt-bloop_2.12_1.0-2.0.10-sources.jar"
                         }
                     ]
                 },

@@ -1,42 +1,36 @@
 package core
 
+import java.security.MessageDigest
 import javax.crypto.Cipher
 import javax.crypto.spec.SecretKeySpec
 import java.util.Base64
 
-object Crypto {
-  private val key: Array[Byte] = 
-    "my-default-key-123"
-    .getBytes("UTF-8")
-    .take(16)
-
-  private val cipher = Cipher.getInstance("AES")
-
-  private def withCipher(mode: Int, value: Array[Byte]): Array[Byte] = {
-    val keySpec = new SecretKeySpec(key, "AES")
-    cipher.init(mode, keySpec)
-    cipher.doFinal(value)
-  }
-
-  def encrypt(value: String): String =
-    Base64
-    .getEncoder
-    .encodeToString(
-      withCipher(
-        Cipher.ENCRYPT_MODE, 
-        value.getBytes("UTF-8")
-      )
-    )
-
-  def decrypt(encryptedValue: String): String =
-    new String(
-      withCipher(
-        Cipher.DECRYPT_MODE, 
-        Base64
-        .getDecoder
-        .decode(encryptedValue)
-      ), "UTF-8"
-    )
+trait CryptoAlgebra[F[_]] {
+  def encrypt(value: String): F[String]
+  def decrypt(value: String): F[String]
 }
 
+object CryptoIO {
+  import scala.util.Try
 
+  object TryCryptoInterpreter extends CryptoAlgebra[Try] {
+    private val key = "1234567890123456" 
+    private def getKeySpec = new SecretKeySpec(key.getBytes("UTF-8"), "AES")
+
+    override def encrypt(value: String): Try[String] = Try {
+      val cipher = Cipher.getInstance("AES")
+      cipher.init(Cipher.ENCRYPT_MODE, getKeySpec)
+
+      val encrypted = cipher.doFinal(value.getBytes("UTF-8"))
+      Base64.getEncoder.encodeToString(encrypted)
+    }
+
+    override def decrypt(value: String): Try[String] = Try {
+      val cipher = Cipher.getInstance("AES")
+      cipher.init(Cipher.DECRYPT_MODE, getKeySpec)
+
+      val decoded = Base64.getDecoder.decode(value)
+      new String(cipher.doFinal(decoded), "UTF-8")
+    }
+  }
+}

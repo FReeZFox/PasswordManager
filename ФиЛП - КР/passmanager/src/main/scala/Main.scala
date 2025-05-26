@@ -15,3 +15,4 @@ object PasswordManager extends JFXApp3 {
 }
 
 @main def run(): Unit = PasswordManager.main(Array.empty)
+

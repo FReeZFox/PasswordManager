@@ -6,7 +6,7 @@ import io.circe.parser._
 import scala.util.{Try, Success, Failure}
 import scalafx.beans.property.StringProperty
 import scala.io.Source
-import core.Crypto
+import core.CryptoIO
 
 object PasswordStorage {
   private val StoragePath = Paths.get(
@@ -15,54 +15,54 @@ object PasswordStorage {
     "passwords.json"
   )
 
-  private def initStorage(): Unit = 
+  private def initStorage(): Unit =
     Files.createDirectories(StoragePath.getParent)
 
   def load(): Seq[PasswordEntry] = {
     initStorage()
-    Files
-    .exists(StoragePath) match {
-      case false => Seq.empty
-      case true =>
-        Try {
-          val jsonString = Source.fromFile(StoragePath.toFile, "UTF-8").mkString
-          parse(jsonString) match {
-            case Right(json) => 
-              json
-              .as[Seq[PasswordEntry.EntryData]]
-              .getOrElse(Seq.empty)
-              .map(decryptEntry)
-            case Left(_) => Seq.empty
-          }
-        }.getOrElse {
-          println("Error.")
-          Seq.empty
-        }
+    if (!Files.exists(StoragePath)) return Seq.empty
+
+    Try {
+      val jsonString = Source.fromFile(StoragePath.toFile, "UTF-8").mkString
+      parse(jsonString) match {
+        case Right(json) =>
+          json
+            .as[Seq[PasswordEntry.EntryData]]
+            .getOrElse(Seq.empty)
+            .map(decryptEntry)
+        case Left(_) => Seq.empty
+      }
+    }.getOrElse {
+      println("Ошибка чтения из хранилища паролей")
+      Seq.empty
     }
   }
 
-  private def decryptEntry(data: PasswordEntry.EntryData): PasswordEntry =
-    PasswordEntry
-    .fromData(
-      data
-      .copy(
-        password = Crypto.decrypt(data.password)
-      )
-    )
+  private def decryptEntry(data: PasswordEntry.EntryData): PasswordEntry = {
+    val decryptedPassword = CryptoIO
+      .TryCryptoInterpreter
+      .decrypt(data.password)
+      .getOrElse("") 
 
+    PasswordEntry.fromData(
+      data.copy(password = decryptedPassword)
+    )
+  }
 
   def save(entries: Seq[PasswordEntry]): Try[Unit] = Try {
     initStorage()
+
     val json = entries.map { entry =>
-      PasswordEntry
-      .toData(
-        entry
-        .copy(
-          password = StringProperty(Crypto.encrypt(entry.password.value))
-        )
+      val encryptedPassword = CryptoIO
+        .TryCryptoInterpreter
+        .encrypt(entry.password.value)
+        .getOrElse("***") 
+
+      PasswordEntry.toData(
+        entry.copy(password = StringProperty(encryptedPassword))
       )
     }.asJson.spaces2
-    
+
     Files.write(
       StoragePath,
       json.getBytes("UTF-8"),

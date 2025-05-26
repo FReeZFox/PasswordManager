@@ -3,6 +3,7 @@ package core
 import scala.util.Random
 
 object PasswordGenerator {
+
   private val charSets: Seq[Seq[Char]] = Seq(
     ('a' to 'z').toSeq,
     ('A' to 'Z').toSeq,
@@ -16,28 +17,33 @@ object PasswordGenerator {
       includeUpper: Boolean,
       includeNumbers: Boolean,
       includeSpecial: Boolean
-  ): Option[String] = {
+  ): LazyList[String] = {
     Seq(
-      includeLower, 
-      includeUpper, 
-      includeNumbers, 
+      includeLower,
+      includeUpper,
+      includeNumbers,
       includeSpecial
-    )
-      .zip(charSets)
+    ).zip(charSets)
       .collect { case (true, chars) => chars }
-      .flatten match {
-        case Nil => None
-        case allChars => 
+      .flatten
+      .toVector match {
+        case allChars if allChars.nonEmpty && length > 0 =>
           val random = new Random()
-          Some(
-            (1 to length)
-            .map(_ => 
+
+          LazyList
+          .continually {
+            Vector
+            .fill(length)(
               allChars(
                 random
-                .nextInt(allChars.length)
-              )
+                .nextInt(
+                  allChars
+                  .length)
+                )
             ).mkString
-          )
+          }
+          
+        case _ => LazyList.empty
       }
   }
 }
