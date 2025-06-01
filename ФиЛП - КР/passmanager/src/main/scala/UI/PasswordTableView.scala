@@ -2,20 +2,26 @@ package UI
 
 import scalafx.scene.control._
 import scalafx.scene.layout._
-import storage.PasswordEntry
-import core.PasswordList
 import scalafx.beans.property.StringProperty
+import scalafx.Includes._
+import scalafx.scene.input.KeyCode
+import scala.jdk.CollectionConverters._
+import javafx.scene.input.{Clipboard, ClipboardContent}
+import javafx.scene.input.KeyEvent
+import javafx.scene.input.KeyCode.TAB
+import storage.PasswordEntry
+import core.SearchBar
 
 object PasswordTableView {
   def createView(): TableView[PasswordEntry] = {
     val tableView = new TableView[PasswordEntry] {
       minWidth = 425
       maxWidth = 425
-      minHeight = 575
-      maxHeight = 575
+      minHeight = 525
+      maxHeight = 525
       fixedCellSize = 25
+      items = SearchBar.filteredEntries
       columnResizePolicy = TableView.ConstrainedResizePolicy
-      items = PasswordList.entries
       style = "-fx-focus-color: grey; -fx-faint-focus-color: transparent;"
       placeholder = new Label("Записей нет")
     }
@@ -90,6 +96,49 @@ object PasswordTableView {
     }
 
     tableView.columns ++= List(serviceColumn, usernameColumn, passwordColumn)
+
+    tableView
+    .addEventFilter(
+      KeyEvent.KEY_PRESSED, event =>
+      Option(event.getCode)
+      .filter(_ == TAB)
+      .filter(_ => tableView.items.value.nonEmpty)
+      .foreach { _ =>
+        val selModel = tableView.selectionModel()
+        val currentIndex = selModel.getSelectedIndex
+        val maxIndex = tableView.items.value.size - 1
+
+        val nextIndex = (event.isShiftDown, currentIndex) match {
+          case (true, i) if i <= 0                  => maxIndex
+          case (true, i)                            => i - 1
+          case (false, i) if i < 0 || i >= maxIndex => 0
+          case (false, i)                           => i + 1
+        }
+
+        selModel.clearAndSelect(nextIndex)
+        tableView.scrollTo(nextIndex)
+        event.consume()
+      }
+    )
+
+
+    tableView.onKeyPressed = event => {
+      if (event.code == KeyCode.Enter) {
+        Option(
+          tableView
+          .selectionModel()
+          .getSelectedItem)
+          .foreach { selectedItem =>
+            val password = selectedItem.password.value
+            val clipboard = Clipboard.getSystemClipboard
+            val content = new ClipboardContent()
+            content.putString(password)
+            clipboard.setContent(content)
+        }
+        event.consume()
+      }
+    }
+
     tableView
   }
 }

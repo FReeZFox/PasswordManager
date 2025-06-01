@@ -22743,3 +22743,1224 @@ WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report a
 2025.05.26 23:21:13 INFO  Shut down connection with build server.
 2025.05.26 23:21:13 INFO  Shut down connection with build server.
 2025.05.26 23:21:13 INFO  Exiting server
+2025.05.28 11:00:55 INFO  Started: Metals version 1.5.3 in folders 'C:\Users\danch\Documents\‘ËÀœ, C:\Users\danch\Documents\UI, C:\Users\danch\Documents\‘ËÀœ -  –' for client Visual Studio Code 1.100.2.
+2025.05.28 11:00:56 INFO  Database: jdbc:h2:file:C:\Users\danch\Documents\‘ËÀœ -  –\.metals\metals (H2 2.3)
+2025.05.28 11:00:56 INFO  Successfully validated 6 migrations (execution time 00:00.048s)
+2025.05.28 11:00:56 INFO  Current version of schema "PUBLIC": 6
+2025.05.28 11:00:56 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2025.05.28 11:00:56 INFO  no build target found for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+Ï‡ˇ 28, 2025 11:01:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2025.05.28 11:01:04 INFO  no build target found for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.05.28 11:01:04 INFO  no build target found for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.05.28 11:01:05 INFO  no build target found for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.05.28 11:01:04 WARN  no build target for: C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\Main.scala
+2025.05.28 11:01:05 INFO  Database: jdbc:h2:file:C:\Users\danch\Documents\UI\.metals\metals (H2 2.3)
+2025.05.28 11:01:05 INFO  Database: jdbc:h2:file:C:\Users\danch\Documents\‘ËÀœ\.metals\metals (H2 2.3)
+2025.05.28 11:01:05 INFO  Successfully validated 6 migrations (execution time 00:00.009s)
+2025.05.28 11:01:05 INFO  Current version of schema "PUBLIC": 6
+2025.05.28 11:01:05 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2025.05.28 11:01:05 INFO  Successfully validated 6 migrations (execution time 00:00.010s)
+2025.05.28 11:01:05 INFO  Current version of schema "PUBLIC": 6
+2025.05.28 11:01:04 INFO  Attempting to connect to the build server...
+2025.05.28 11:01:05 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2025.05.28 11:01:04 INFO  No running Bloop server found, starting one.
+2025.05.28 11:01:05 INFO  Attempting to connect to the build server...
+2025.05.28 11:01:05 INFO  No running Bloop server found, starting one.
+2025.05.28 11:01:05 INFO  Attempting to connect to the build server...
+2025.05.28 11:01:05 INFO  No running Bloop server found, starting one.
+2025.05.28 11:01:09 INFO  Starting compilation server
+2025.05.28 11:01:09 INFO  Starting compilation server
+2025.05.28 11:01:09 INFO  Starting compilation server
+2025.05.28 11:01:12 INFO  no build target found for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.05.28 11:01:15 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\danch\Documents\‘ËÀœ -  –\.metals\bsp.trace.json or C:\Users\danch\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.05.28 11:01:15 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\danch\Documents\UI\.metals\bsp.trace.json or C:\Users\danch\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.05.28 11:01:15 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\danch\Documents\‘ËÀœ\.metals\bsp.trace.json or C:\Users\danch\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.05.28 11:01:19 INFO  time: Connected to build server in 14s
+2025.05.28 11:01:19 INFO  time: Connected to build server in 14s
+2025.05.28 11:01:19 INFO  Connected to Build server: Bloop v2.0.10
+2025.05.28 11:01:19 INFO  Connected to Build server: Bloop v2.0.10
+2025.05.28 11:01:19 INFO  time: Imported build in 0.21s
+2025.05.28 11:01:19 INFO  time: Imported build in 0.21s
+2025.05.28 11:01:21 INFO  time: Connected to build server in 16s
+2025.05.28 11:01:21 INFO  Connected to Build server: Bloop v2.0.10
+2025.05.28 11:01:21 WARN  2.13.12 is no longer supported in the current Metals versions, using the last known supported version 1.4.2
+2025.05.28 11:01:27 INFO  Database: jdbc:h2:file:C:\Users\danch\AppData\Roaming\metals\data\metals (H2 2.3)
+2025.05.28 11:01:27 INFO  Successfully validated 1 migration (execution time 00:00.003s)
+2025.05.28 11:01:27 INFO  Current version of schema "PUBLIC": 1
+2025.05.28 11:01:27 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2025.05.28 11:01:27 INFO  Database: jdbc:h2:file:C:\Users\danch\AppData\Roaming\metals\data\metals (H2 2.3)
+2025.05.28 11:01:27 INFO  Successfully validated 1 migration (execution time 00:00.002s)
+2025.05.28 11:01:27 INFO  Current version of schema "PUBLIC": 1
+2025.05.28 11:01:27 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2025.05.28 11:01:28 INFO  time: indexed workspace in 6.23s
+2025.05.28 11:01:28 WARN  no build target for: C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\Main.scala
+2025.05.28 11:01:28 INFO  Database: jdbc:h2:file:C:\Users\danch\AppData\Roaming\metals\data\metals (H2 2.3)
+2025.05.28 11:01:28 INFO  Successfully validated 1 migration (execution time 00:00.004s)
+2025.05.28 11:01:28 INFO  Current version of schema "PUBLIC": 1
+2025.05.28 11:01:28 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2025.05.28 11:01:29 INFO  time: indexed workspace in 9.18s
+2025.05.28 11:01:29 WARN  no build target for: C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\Main.scala
+2025.05.28 11:01:28 INFO  time: indexed workspace in 9.5s
+exception caught when loading module class module-info$: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+2025.05.28 11:17:40 INFO  no build target found for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\build.sbt. Using presentation compiler with project's scala-library version: 3.5.0
+2025.05.28 11:17:40 WARN  no build target for: C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\build.sbt
+2025.05.28 11:17:40 INFO  no build target found for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\build.sbt. Using presentation compiler with project's scala-library version: 3.5.0
+2025.05.28 11:17:40 WARN  Could not find semantic tokens for: file:///C:/Users/danch/Documents/‘ËÀœ%20-%20 –/passmanager/build.sbt
+2025.05.28 11:17:40 INFO  no build target found for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\build.sbt. Using presentation compiler with project's scala-library version: 3.5.0
+2025.05.28 11:17:40 INFO  no build target found for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\build.sbt. Using presentation compiler with project's scala-library version: 3.5.0
+2025.05.28 11:17:40 INFO  no build target found for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\build.sbt. Using presentation compiler with project's scala-library version: 3.5.0
+2025.05.28 11:17:40 WARN  Could not find semantic tokens for: file:///C:/Users/danch/Documents/‘ËÀœ%20-%20 –/passmanager/build.sbt
+2025.05.28 11:18:03 INFO  no build target found for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\build.sbt. Using presentation compiler with project's scala-library version: 3.5.0
+2025.05.28 11:27:57 INFO  no build target found for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\build.sbt. Using presentation compiler with project's scala-library version: 3.5.0
+2025.05.28 11:27:57 WARN  no build target for: C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\build.sbt
+2025.05.28 11:27:58 INFO  no build target found for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\build.sbt. Using presentation compiler with project's scala-library version: 3.5.0
+2025.05.28 11:27:58 WARN  Could not find semantic tokens for: file:///C:/Users/danch/Documents/‘ËÀœ%20-%20 –/passmanager/build.sbt
+2025.05.28 11:27:58 INFO  no build target found for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\build.sbt. Using presentation compiler with project's scala-library version: 3.5.0
+2025.05.28 11:27:58 INFO  no build target found for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\build.sbt. Using presentation compiler with project's scala-library version: 3.5.0
+2025.05.28 11:27:58 INFO  no build target found for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\build.sbt. Using presentation compiler with project's scala-library version: 3.5.0
+2025.05.28 11:27:58 WARN  Could not find semantic tokens for: file:///C:/Users/danch/Documents/‘ËÀœ%20-%20 –/passmanager/build.sbt
+2025.05.28 11:27:59 INFO  no build target found for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\build.sbt. Using presentation compiler with project's scala-library version: 3.5.0
+2025.05.28 11:28:14 INFO  no build target found for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\build.sbt. Using presentation compiler with project's scala-library version: 3.5.0
+Ï‡ˇ 28, 2025 11:43:10 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 156
+Ï‡ˇ 28, 2025 11:55:54 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: Could not find any locations for Some(SymbolOccurrence(Some(Range(15,9,15,29)),core/CryptoIO.TryCryptoInterpreter.,DEFINITION)), printing index state (full report at: C:\Users\danch\Documents\‘ËÀœ -  –\.metals\.reports\metals-full\2025-05-28\r_empty-references_(passmanager)_11-55-54-841.md)
+Ï‡ˇ 28, 2025 11:55:57 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 256
+2025.05.28 12:06:07 INFO  no build target found for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\build.sbt. Using presentation compiler with project's scala-library version: 3.5.0
+2025.05.28 12:06:07 WARN  no build target for: C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\build.sbt
+2025.05.28 12:06:07 INFO  no build target found for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\build.sbt. Using presentation compiler with project's scala-library version: 3.5.0
+2025.05.28 12:06:07 WARN  Could not find semantic tokens for: file:///C:/Users/danch/Documents/‘ËÀœ%20-%20 –/passmanager/build.sbt
+2025.05.28 12:06:07 INFO  no build target found for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\build.sbt. Using presentation compiler with project's scala-library version: 3.5.0
+2025.05.28 12:06:07 INFO  no build target found for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\build.sbt. Using presentation compiler with project's scala-library version: 3.5.0
+2025.05.28 12:06:07 WARN  Could not find semantic tokens for: file:///C:/Users/danch/Documents/‘ËÀœ%20-%20 –/passmanager/build.sbt
+2025.05.28 12:06:07 INFO  no build target found for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\build.sbt. Using presentation compiler with project's scala-library version: 3.5.0
+2025.05.28 12:06:12 INFO  no build target found for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\build.sbt. Using presentation compiler with project's scala-library version: 3.5.0
+Ï‡ˇ 28, 2025 12:36:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 692
+2025.05.28 12:40:19 INFO  compiling passmanager (1 scala source)
+2025.05.28 12:40:26 INFO  time: compiled passmanager in 6.66s
+exception caught when loading module class module-info$: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+Ï‡ˇ 28, 2025 12:41:05 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: Could not find any locations for Some(SymbolOccurrence(Some(Range(15,9,15,29)),core/CryptoIO.TryCryptoInterpreter.,DEFINITION)), printing index state (full report at: C:\Users\danch\Documents\‘ËÀœ -  –\.metals\.reports\metals-full\2025-05-28\r_empty-references_(passmanager)_11-55-54-841.md)
+Ï‡ˇ 28, 2025 12:41:07 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: Could not find any locations for Some(SymbolOccurrence(Some(Range(15,9,15,29)),core/CryptoIO.TryCryptoInterpreter.,DEFINITION)), printing index state (full report at: C:\Users\danch\Documents\‘ËÀœ -  –\.metals\.reports\metals-full\2025-05-28\r_empty-references_(passmanager)_11-55-54-841.md)
+Ï‡ˇ 28, 2025 12:41:09 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: Could not find any locations for Some(SymbolOccurrence(Some(Range(15,9,15,29)),core/CryptoIO.TryCryptoInterpreter.,DEFINITION)), printing index state (full report at: C:\Users\danch\Documents\‘ËÀœ -  –\.metals\.reports\metals-full\2025-05-28\r_empty-references_(passmanager)_11-55-54-841.md)
+2025.05.28 18:50:07 INFO  Shutting down server
+2025.05.28 18:50:07 INFO  shutting down Metals
+2025.05.28 18:50:07 INFO  Shut down connection with build server.
+2025.05.28 18:50:07 INFO  Shut down connection with build server.
+2025.05.28 18:50:07 INFO  Shut down connection with build server.
+2025.05.28 18:50:07 INFO  Exiting server
+2025.06.01 12:57:15 INFO  Started: Metals version 1.5.3 in folders 'C:\Users\danch\Documents\‘ËÀœ, C:\Users\danch\Documents\UI, C:\Users\danch\Documents\‘ËÀœ -  –' for client Visual Studio Code 1.100.2.
+2025.06.01 12:57:16 INFO  Database: jdbc:h2:file:C:\Users\danch\Documents\‘ËÀœ -  –\.metals\metals (H2 2.3)
+2025.06.01 12:57:16 INFO  Successfully validated 6 migrations (execution time 00:00.041s)
+2025.06.01 12:57:16 INFO  Current version of schema "PUBLIC": 6
+2025.06.01 12:57:16 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2025.06.01 12:57:16 INFO  no build target found for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\core\Crypto.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.01 12:57:20 INFO  no build target found for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\core\Crypto.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.01 12:57:20 INFO  Attempting to connect to the build server...
+2025.06.01 12:57:20 INFO  No running Bloop server found, starting one.
+2025.06.01 12:57:20 INFO  Database: jdbc:h2:file:C:\Users\danch\Documents\UI\.metals\metals (H2 2.3)
+2025.06.01 12:57:20 INFO  Database: jdbc:h2:file:C:\Users\danch\Documents\‘ËÀœ\.metals\metals (H2 2.3)
+2025.06.01 12:57:20 INFO  Successfully validated 6 migrations (execution time 00:00.007s)
+2025.06.01 12:57:20 INFO  Successfully validated 6 migrations (execution time 00:00.006s)
+2025.06.01 12:57:20 INFO  Current version of schema "PUBLIC": 6
+2025.06.01 12:57:20 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2025.06.01 12:57:20 INFO  Current version of schema "PUBLIC": 6
+2025.06.01 12:57:20 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2025.06.01 12:57:20 INFO  Attempting to connect to the build server...
+2025.06.01 12:57:20 INFO  Attempting to connect to the build server...
+2025.06.01 12:57:20 INFO  No running Bloop server found, starting one.
+2025.06.01 12:57:20 INFO  No running Bloop server found, starting one.
+2025.06.01 12:57:24 INFO  Starting compilation server
+2025.06.01 12:57:24 INFO  Starting compilation server
+2025.06.01 12:57:24 INFO  Starting compilation server
+2025.06.01 12:57:24 INFO  no build target found for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\core\Crypto.scala. Using presentation compiler with project's scala-library version: 3.3.6
+Ë˛Ì. 01, 2025 12:57:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2025.06.01 12:57:24 INFO  no build target found for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\core\Crypto.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.01 12:57:24 INFO  no build target found for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\core\Crypto.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.01 12:57:24 INFO  no build target found for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\core\Crypto.scala. Using presentation compiler with project's scala-library version: 3.3.6
+Ë˛Ì. 01, 2025 12:57:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12
+2025.06.01 12:57:24 INFO  no build target found for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\core\Crypto.scala. Using presentation compiler with project's scala-library version: 3.3.6
+Ë˛Ì. 01, 2025 12:57:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4
+2025.06.01 12:57:24 INFO  no build target found for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\core\Crypto.scala. Using presentation compiler with project's scala-library version: 3.3.6
+Ë˛Ì. 01, 2025 12:57:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+2025.06.01 12:57:24 INFO  no build target found for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\core\Crypto.scala. Using presentation compiler with project's scala-library version: 3.3.6
+Ë˛Ì. 01, 2025 12:57:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14
+Ë˛Ì. 01, 2025 12:57:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 17
+2025.06.01 12:57:24 INFO  no build target found for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\core\Crypto.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.01 12:57:25 INFO  no build target found for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\core\Crypto.scala. Using presentation compiler with project's scala-library version: 3.3.6
+Ë˛Ì. 01, 2025 12:57:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 19
+2025.06.01 12:57:24 INFO  no build target found for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\core\Crypto.scala. Using presentation compiler with project's scala-library version: 3.3.6
+Ë˛Ì. 01, 2025 12:57:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 21
+2025.06.01 12:57:24 INFO  no build target found for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\core\Crypto.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.01 12:57:24 INFO  no build target found for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\core\Crypto.scala. Using presentation compiler with project's scala-library version: 3.3.6
+Ë˛Ì. 01, 2025 12:57:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 20
+2025.06.01 12:57:24 INFO  no build target found for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\core\Crypto.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.01 12:57:24 INFO  no build target found for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\core\Crypto.scala. Using presentation compiler with project's scala-library version: 3.3.6
+Ë˛Ì. 01, 2025 12:57:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 22
+2025.06.01 12:57:25 INFO  no build target found for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\core\Crypto.scala. Using presentation compiler with project's scala-library version: 3.3.6
+Ë˛Ì. 01, 2025 12:57:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 26
+2025.06.01 12:57:25 INFO  no build target found for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\core\Crypto.scala. Using presentation compiler with project's scala-library version: 3.3.6
+Ë˛Ì. 01, 2025 12:57:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 29
+2025.06.01 12:57:25 INFO  no build target found for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\core\Crypto.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.01 12:57:25 INFO  no build target found for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\core\Crypto.scala. Using presentation compiler with project's scala-library version: 3.3.6
+Ë˛Ì. 01, 2025 12:57:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 30
+2025.06.01 12:57:25 INFO  no build target found for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\core\Crypto.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.01 12:57:26 INFO  no build target found for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\core\Crypto.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.01 12:57:28 INFO  no build target found for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\core\Crypto.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.01 12:57:28 INFO  no build target found for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\core\Crypto.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.01 12:57:30 INFO  no build target found for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\core\Crypto.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.01 12:57:31 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\danch\Documents\‘ËÀœ -  –\.metals\bsp.trace.json or C:\Users\danch\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.06.01 12:57:31 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\danch\Documents\UI\.metals\bsp.trace.json or C:\Users\danch\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.06.01 12:57:31 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\danch\Documents\‘ËÀœ\.metals\bsp.trace.json or C:\Users\danch\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.06.01 12:57:32 INFO  no build target found for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\core\Crypto.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.01 12:57:33 INFO  no build target found for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\core\Crypto.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.01 12:57:33 INFO  no build target found for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\core\Crypto.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.01 12:57:33 INFO  no build target found for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\core\Crypto.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.01 12:57:33 INFO  no build target found for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\core\Crypto.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.01 12:57:34 INFO  no build target found for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\core\Crypto.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.01 12:57:33 INFO  no build target found for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\core\Crypto.scala. Using presentation compiler with project's scala-library version: 3.3.6
+Ë˛Ì. 01, 2025 12:57:34 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: javax/crypto/spec/SecretKeySpec# (full report at: C:\Users\danch\Documents\‘ËÀœ -  –\.metals\.reports\metals-full\2025-06-01\r_empty-definition_12-57-34-834.md)
+2025.06.01 12:57:35 INFO  no build target found for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\core\Crypto.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.01 12:57:35 INFO  time: Connected to build server in 15s
+2025.06.01 12:57:35 INFO  time: Connected to build server in 14s
+2025.06.01 12:57:35 INFO  time: Connected to build server in 14s
+2025.06.01 12:57:35 INFO  Connected to Build server: Bloop v2.0.10
+2025.06.01 12:57:35 INFO  Connected to Build server: Bloop v2.0.10
+2025.06.01 12:57:35 INFO  Connected to Build server: Bloop v2.0.10
+2025.06.01 12:57:35 INFO  no build target found for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\core\Crypto.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.01 12:57:35 INFO  time: Imported build in 0.24s
+2025.06.01 12:57:35 INFO  time: Imported build in 0.24s
+2025.06.01 12:57:35 INFO  time: Imported build in 0.24s
+2025.06.01 12:57:35 WARN  2.13.12 is no longer supported in the current Metals versions, using the last known supported version 1.4.2
+2025.06.01 12:57:43 INFO  Database: jdbc:h2:file:C:\Users\danch\AppData\Roaming\metals\data\metals (H2 2.3)
+2025.06.01 12:57:43 INFO  Database: jdbc:h2:file:C:\Users\danch\AppData\Roaming\metals\data\metals (H2 2.3)
+2025.06.01 12:57:43 INFO  Database: jdbc:h2:file:C:\Users\danch\AppData\Roaming\metals\data\metals (H2 2.3)
+2025.06.01 12:57:43 INFO  Successfully validated 1 migration (execution time 00:00.003s)
+2025.06.01 12:57:43 INFO  Successfully validated 1 migration (execution time 00:00.003s)
+2025.06.01 12:57:43 INFO  Successfully validated 1 migration (execution time 00:00.003s)
+2025.06.01 12:57:43 INFO  Current version of schema "PUBLIC": 1
+2025.06.01 12:57:43 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2025.06.01 12:57:43 INFO  Current version of schema "PUBLIC": 1
+2025.06.01 12:57:43 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2025.06.01 12:57:43 INFO  Current version of schema "PUBLIC": 1
+2025.06.01 12:57:43 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2025.06.01 12:57:43 INFO  time: indexed workspace in 8.71s
+2025.06.01 12:57:43 INFO  time: indexed workspace in 8.73s
+2025.06.01 12:57:43 WARN  no build target for: C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\core\Crypto.scala
+2025.06.01 12:57:44 WARN  no build target for: C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\Main.scala
+2025.06.01 12:57:44 WARN  no build target for: C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\Main.scala
+2025.06.01 12:57:44 WARN  no build target for: C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\core\Crypto.scala
+2025.06.01 12:57:43 WARN  no build target for: C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\core\PasswordGenerator.scala
+2025.06.01 12:57:44 WARN  no build target for: C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\core\PasswordGenerator.scala
+2025.06.01 12:57:45 INFO  time: indexed workspace in 9s
+exception caught when loading module class module-info$: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+Ë˛Ì. 01, 2025 12:57:51 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: Could not find any locations for Some(SymbolOccurrence(Some(Range(15,9,15,29)),core/CryptoIO.TryCryptoInterpreter.,DEFINITION)), printing index state (full report at: C:\Users\danch\Documents\‘ËÀœ -  –\.metals\.reports\metals-full\2025-05-28\r_empty-references_(passmanager)_11-55-54-841.md)
+Ë˛Ì. 01, 2025 12:57:54 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: Could not find any locations for Some(SymbolOccurrence(Some(Range(12,7,12,15)),core/CryptoIO.,DEFINITION)), printing index state (full report at: C:\Users\danch\Documents\‘ËÀœ -  –\.metals\.reports\metals-full\2025-06-01\r_empty-references_(passmanager)_12-57-54-559.md)
+Ë˛Ì. 01, 2025 12:57:56 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: Could not find any locations for Some(SymbolOccurrence(Some(Range(7,6,7,19)),core/CryptoAlgebra#,DEFINITION)), printing index state (full report at: C:\Users\danch\Documents\‘ËÀœ -  –\.metals\.reports\metals-full\2025-06-01\r_empty-references_(passmanager)_12-57-56-497.md)
+Ë˛Ì. 01, 2025 12:58:18 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Ë˛Ì. 01, 2025 1:12:10 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\danch\Documents\‘ËÀœ -  –\.metals\.reports\metals-full\2025-05-14\r_empty-definition_(passmanager)_17-38-22-446.md)
+Ë˛Ì. 01, 2025 1:17:54 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\danch\Documents\‘ËÀœ -  –\.metals\.reports\metals-full\2025-05-15\r_empty-definition_(passmanager)_13-52-05-136.md)
+2025.06.01 13:21:30 INFO  compiling passmanager (1 scala source)
+2025.06.01 13:21:32 INFO  time: compiled passmanager in 2.42s
+2025.06.01 13:21:37 INFO  compiling passmanager (1 scala source)
+2025.06.01 13:21:37 INFO  time: compiled passmanager in 0.25s
+2025.06.01 13:21:51 INFO  compiling passmanager (1 scala source)
+2025.06.01 13:21:51 INFO  time: compiled passmanager in 0.39s
+exception caught when loading module class module-info$: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+Exception in thread "pool-33-thread-1" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:244)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+exception caught when loading module class module-info$: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+Exception in thread "pool-33-thread-2" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:244)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2025.06.01 13:24:52 INFO  compiling passmanager (1 scala source)
+Ë˛Ì. 01, 2025 1:24:52 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\danch\Documents\‘ËÀœ -  –\.metals\.reports\metals-full\2025-06-01\r_empty-definition_(passmanager)_13-24-52-170.md)
+2025.06.01 13:24:54 INFO  time: compiled passmanager in 2.57s
+2025.06.01 13:24:59 INFO  file:///C:/Users/danch/Documents/‘ËÀœ%20-%20 –/passmanager/src/main/scala/UI/SearchBarView.scala:1:1: stale bloop warning: No class, trait or object is defined in the compilation unit.
+The incremental compiler cannot record the dependency information in such case.
+Some errors like unused import referring to a non-existent class might not be reported.
+
+package UI
+^^^^^^^^^^
+2025.06.01 13:25:00 INFO  compiling passmanager (1 scala source)
+2025.06.01 13:25:00 INFO  time: compiled passmanager in 0.89s
+exception caught when loading module class module-info$: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+Ë˛Ì. 01, 2025 1:26:38 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\danch\Documents\‘ËÀœ -  –\.metals\.reports\metals-full\2025-05-15\r_empty-definition_(passmanager)_13-52-05-136.md)
+2025.06.01 13:26:39 INFO  compiling passmanager (1 scala source)
+2025.06.01 13:26:39 INFO  time: compiled passmanager in 0.94s
+2025.06.01 13:26:48 INFO  compiling passmanager (1 scala source)
+2025.06.01 13:26:49 INFO  time: compiled passmanager in 1.44s
+Ë˛Ì. 01, 2025 1:27:15 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\danch\Documents\‘ËÀœ -  –\.metals\.reports\metals-full\2025-05-15\r_empty-definition_(passmanager)_13-52-05-136.md)
+exception caught when loading module class module-info$: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+2025.06.01 13:27:47 INFO  compiling passmanager (1 scala source)
+2025.06.01 13:27:47 INFO  time: compiled passmanager in 0.95s
+2025.06.01 13:27:50 INFO  compiling passmanager (1 scala source)
+2025.06.01 13:27:50 INFO  time: compiled passmanager in 0.81s
+2025.06.01 13:28:04 INFO  compiling passmanager (1 scala source)
+2025.06.01 13:28:04 INFO  time: compiled passmanager in 0.27s
+2025.06.01 13:28:07 INFO  time: compiled passmanager in 24ms
+exception caught when loading module class module-info$: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+2025.06.01 13:32:53 INFO  compiling passmanager (1 scala source)
+2025.06.01 13:32:54 WARN  Could not load snapshot text for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\core\SearchBar.scala
+2025.06.01 13:32:54 WARN  Could not load snapshot text for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\core\SearchBar.scala
+2025.06.01 13:32:53 INFO  time: compiled passmanager in 0.52s
+2025.06.01 13:34:56 INFO  compiling passmanager (1 scala source)
+2025.06.01 13:34:56 INFO  time: compiled passmanager in 0.61s
+Ë˛Ì. 01, 2025 1:35:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1300
+2025.06.01 13:35:15 INFO  compiling passmanager (1 scala source)
+2025.06.01 13:35:15 INFO  time: compiled passmanager in 0.45s
+2025.06.01 13:35:31 INFO  compiling passmanager (1 scala source)
+Ë˛Ì. 01, 2025 1:35:31 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\danch\Documents\‘ËÀœ -  –\.metals\.reports\metals-full\2025-06-01\r_empty-definition_(passmanager)_13-35-31-777.md)
+2025.06.01 13:35:31 INFO  time: compiled passmanager in 0.55s
+2025.06.01 13:35:46 INFO  compiling passmanager (1 scala source)
+2025.06.01 13:35:46 WARN  Could not load snapshot text for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\UI\SearchBarView.scala
+2025.06.01 13:35:46 WARN  Could not load snapshot text for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\UI\SearchBarView.scala
+Ë˛Ì. 01, 2025 1:35:46 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\danch\Documents\‘ËÀœ -  –\.metals\.reports\metals-full\2025-06-01\r_empty-definition_(passmanager)_13-35-31-777.md)
+2025.06.01 13:35:46 WARN  Could not load snapshot text for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\UI\SearchBarView.scala
+2025.06.01 13:35:46 WARN  Could not load snapshot text for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\UI\SearchBarView.scala
+Ë˛Ì. 01, 2025 1:35:46 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\danch\Documents\‘ËÀœ -  –\.metals\.reports\metals-full\2025-06-01\r_empty-definition_(passmanager)_13-35-31-777.md)
+2025.06.01 13:35:46 WARN  Could not load snapshot text for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\UI\SearchBarView.scala
+2025.06.01 13:35:46 WARN  Could not load snapshot text for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\UI\SearchBarView.scala
+2025.06.01 13:35:46 INFO  time: compiled passmanager in 0.59s
+2025.06.01 13:37:26 INFO  compiling passmanager (1 scala source)
+2025.06.01 13:37:26 INFO  time: compiled passmanager in 0.51s
+2025.06.01 13:37:36 INFO  compiling passmanager (1 scala source)
+2025.06.01 13:37:36 INFO  time: compiled passmanager in 0.88s
+Ë˛Ì. 01, 2025 1:38:47 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\danch\Documents\‘ËÀœ -  –\.metals\.reports\metals-full\2025-05-14\r_empty-definition_(passmanager)_18-00-56-341.md)
+2025.06.01 13:38:57 INFO  compiling passmanager (1 scala source)
+2025.06.01 13:38:57 INFO  time: compiled passmanager in 0.7s
+exception caught when loading module class module-info$: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+Ë˛Ì. 01, 2025 1:41:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1752
+2025.06.01 13:41:30 INFO  compiling passmanager (1 scala source)
+2025.06.01 13:41:30 INFO  time: compiled passmanager in 0.36s
+2025.06.01 13:41:36 INFO  time: compiled passmanager in 8ms
+2025.06.01 13:41:43 INFO  compiling passmanager (1 scala source)
+2025.06.01 13:41:43 INFO  time: compiled passmanager in 0.58s
+2025.06.01 13:41:55 INFO  compiling passmanager (1 scala source)
+2025.06.01 13:41:55 INFO  time: compiled passmanager in 0.58s
+2025.06.01 13:43:44 INFO  compiling passmanager (1 scala source)
+2025.06.01 13:43:44 INFO  time: compiled passmanager in 0.62s
+2025.06.01 13:43:54 INFO  Shutting down server
+2025.06.01 13:43:54 INFO  shutting down Metals
+2025.06.01 13:43:54 INFO  Shut down connection with build server.
+2025.06.01 13:43:55 INFO  Shut down connection with build server.
+2025.06.01 13:43:55 INFO  Shut down connection with build server.
+2025.06.01 13:43:54 INFO  Exiting server
+2025.06.01 13:44:04 INFO  Started: Metals version 1.5.3 in folders 'C:\Users\danch\Documents\‘ËÀœ, C:\Users\danch\Documents\UI, C:\Users\danch\Documents\‘ËÀœ -  –' for client Visual Studio Code 1.100.2.
+2025.06.01 13:44:05 INFO  Database: jdbc:h2:file:C:\Users\danch\Documents\‘ËÀœ -  –\.metals\metals (H2 2.3)
+2025.06.01 13:44:05 INFO  Successfully validated 6 migrations (execution time 00:00.033s)
+2025.06.01 13:44:05 INFO  Current version of schema "PUBLIC": 6
+2025.06.01 13:44:05 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2025.06.01 13:44:06 INFO  no build target found for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.01 13:44:06 INFO  Attempting to connect to the build server...
+2025.06.01 13:44:06 INFO  Database: jdbc:h2:file:C:\Users\danch\Documents\UI\.metals\metals (H2 2.3)
+2025.06.01 13:44:06 INFO  Successfully validated 6 migrations (execution time 00:00.009s)
+2025.06.01 13:44:06 INFO  Database: jdbc:h2:file:C:\Users\danch\Documents\‘ËÀœ\.metals\metals (H2 2.3)
+2025.06.01 13:44:06 INFO  Current version of schema "PUBLIC": 6
+2025.06.01 13:44:06 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2025.06.01 13:44:06 INFO  Successfully validated 6 migrations (execution time 00:00.010s)
+2025.06.01 13:44:06 INFO  Current version of schema "PUBLIC": 6
+2025.06.01 13:44:06 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2025.06.01 13:44:06 INFO  Found a Bloop server running
+2025.06.01 13:44:06 INFO  Attempting to connect to the build server...
+2025.06.01 13:44:06 INFO  Found a Bloop server running
+2025.06.01 13:44:06 INFO  Attempting to connect to the build server...
+2025.06.01 13:44:06 INFO  Found a Bloop server running
+2025.06.01 13:44:06 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\danch\Documents\‘ËÀœ -  –\.metals\bsp.trace.json or C:\Users\danch\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.06.01 13:44:06 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\danch\Documents\UI\.metals\bsp.trace.json or C:\Users\danch\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.06.01 13:44:06 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\danch\Documents\‘ËÀœ\.metals\bsp.trace.json or C:\Users\danch\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.06.01 13:44:06 INFO  time: Connected to build server in 0.13s
+2025.06.01 13:44:06 INFO  time: Connected to build server in 0.16s
+2025.06.01 13:44:06 INFO  time: Connected to build server in 0.35s
+2025.06.01 13:44:06 INFO  Connected to Build server: Bloop v2.0.10
+2025.06.01 13:44:06 INFO  Connected to Build server: Bloop v2.0.10
+2025.06.01 13:44:06 INFO  Connected to Build server: Bloop v2.0.10
+2025.06.01 13:44:06 INFO  time: Imported build in 0.12s
+2025.06.01 13:44:06 INFO  time: Imported build in 0.12s
+2025.06.01 13:44:06 INFO  time: Imported build in 0.12s
+2025.06.01 13:44:06 WARN  2.13.12 is no longer supported in the current Metals versions, using the last known supported version 1.4.2
+2025.06.01 13:44:12 INFO  Database: jdbc:h2:file:C:\Users\danch\AppData\Roaming\metals\data\metals (H2 2.3)
+2025.06.01 13:44:12 INFO  Database: jdbc:h2:file:C:\Users\danch\AppData\Roaming\metals\data\metals (H2 2.3)
+2025.06.01 13:44:12 INFO  Database: jdbc:h2:file:C:\Users\danch\AppData\Roaming\metals\data\metals (H2 2.3)
+2025.06.01 13:44:12 INFO  Successfully validated 1 migration (execution time 00:00.004s)
+2025.06.01 13:44:12 INFO  Successfully validated 1 migration (execution time 00:00.004s)
+2025.06.01 13:44:12 INFO  Successfully validated 1 migration (execution time 00:00.004s)
+2025.06.01 13:44:12 INFO  Current version of schema "PUBLIC": 1
+2025.06.01 13:44:12 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2025.06.01 13:44:12 INFO  Current version of schema "PUBLIC": 1
+2025.06.01 13:44:12 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2025.06.01 13:44:12 INFO  Current version of schema "PUBLIC": 1
+2025.06.01 13:44:12 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2025.06.01 13:44:12 INFO  time: indexed workspace in 5.54s
+2025.06.01 13:44:12 WARN  no build target for: C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\Main.scala
+2025.06.01 13:44:12 INFO  time: indexed workspace in 5.63s
+2025.06.01 13:44:12 WARN  no build target for: C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\Main.scala
+2025.06.01 13:44:12 INFO  time: indexed workspace in 4.9s
+exception caught when loading class module-info: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+Ë˛Ì. 01, 2025 1:49:36 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\danch\Documents\‘ËÀœ -  –\.metals\.reports\metals-full\2025-05-14\r_empty-definition_(passmanager)_18-00-56-341.md)
+2025.06.01 13:49:38 INFO  compiling passmanager (1 scala source)
+2025.06.01 13:49:38 INFO  time: compiled passmanager in 0.68s
+2025.06.01 13:49:52 INFO  compiling passmanager (1 scala source)
+2025.06.01 13:49:52 INFO  time: compiled passmanager in 0.56s
+2025.06.01 13:54:08 INFO  compiling passmanager (1 scala source)
+2025.06.01 13:54:08 INFO  time: compiled passmanager in 0.28s
+2025.06.01 13:54:20 INFO  compiling passmanager (1 scala source)
+2025.06.01 13:54:20 INFO  time: compiled passmanager in 0.58s
+2025.06.01 13:54:35 INFO  compiling passmanager (1 scala source)
+exception caught when loading class module-info: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+2025.06.01 13:54:35 INFO  time: compiled passmanager in 0.59s
+2025.06.01 13:54:45 INFO  compiling passmanager (1 scala source)
+2025.06.01 13:54:45 INFO  time: compiled passmanager in 0.49s
+2025.06.01 13:54:54 INFO  compiling passmanager (1 scala source)
+2025.06.01 13:54:54 INFO  time: compiled passmanager in 0.58s
+exception caught when loading class module-info: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+2025.06.01 13:56:23 INFO  compiling passmanager (1 scala source)
+2025.06.01 13:56:23 INFO  time: compiled passmanager in 0.33s
+Ë˛Ì. 01, 2025 1:56:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 776
+2025.06.01 13:56:35 INFO  compiling passmanager (1 scala source)
+2025.06.01 13:56:35 INFO  time: compiled passmanager in 0.59s
+exception caught when loading class module-info: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+2025.06.01 13:56:45 INFO  compiling passmanager (1 scala source)
+2025.06.01 13:56:45 INFO  time: compiled passmanager in 0.66s
+Ë˛Ì. 01, 2025 1:56:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 891
+exception caught when loading class module-info: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+2025.06.01 13:56:59 INFO  compiling passmanager (1 scala source)
+2025.06.01 13:56:59 INFO  time: compiled passmanager in 0.51s
+2025.06.01 13:57:19 INFO  compiling passmanager (1 scala source)
+2025.06.01 13:57:19 INFO  time: compiled passmanager in 0.53s
+2025.06.01 13:57:31 INFO  compiling passmanager (1 scala source)
+2025.06.01 13:57:31 INFO  time: compiled passmanager in 0.62s
+exception caught when loading class module-info: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+2025.06.01 13:57:46 INFO  compiling passmanager (1 scala source)
+2025.06.01 13:57:46 INFO  time: compiled passmanager in 0.37s
+exception caught when loading class module-info: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+2025.06.01 13:57:56 INFO  compiling passmanager (1 scala source)
+2025.06.01 13:57:56 INFO  time: compiled passmanager in 0.37s
+2025.06.01 13:58:06 INFO  compiling passmanager (1 scala source)
+2025.06.01 13:58:06 INFO  time: compiled passmanager in 0.49s
+Ë˛Ì. 01, 2025 1:58:07 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\danch\Documents\‘ËÀœ -  –\.metals\.reports\metals-full\2025-06-01\r_empty-definition_(passmanager)_13-35-31-777.md)
+2025.06.01 13:58:09 INFO  compiling passmanager (1 scala source)
+2025.06.01 13:58:09 WARN  Could not load snapshot text for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\UI\SearchBarView.scala
+2025.06.01 13:58:09 WARN  Could not load snapshot text for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\UI\SearchBarView.scala
+Ë˛Ì. 01, 2025 1:58:09 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\danch\Documents\‘ËÀœ -  –\.metals\.reports\metals-full\2025-06-01\r_empty-definition_(passmanager)_13-35-31-777.md)
+2025.06.01 13:58:09 INFO  time: compiled passmanager in 0.4s
+2025.06.01 13:58:17 INFO  compiling passmanager (1 scala source)
+2025.06.01 13:58:17 INFO  time: compiled passmanager in 0.35s
+2025.06.01 13:59:25 INFO  compiling passmanager (1 scala source)
+2025.06.01 13:59:25 INFO  time: compiled passmanager in 0.34s
+2025.06.01 14:00:45 INFO  compiling passmanager (1 scala source)
+2025.06.01 14:00:45 INFO  time: compiled passmanager in 0.38s
+Ë˛Ì. 01, 2025 2:00:46 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\danch\Documents\‘ËÀœ -  –\.metals\.reports\metals-full\2025-05-14\r_empty-definition_(passmanager)_18-00-56-341.md)
+Ë˛Ì. 01, 2025 2:00:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1354
+Ë˛Ì. 01, 2025 2:00:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1355
+2025.06.01 14:00:57 INFO  compiling passmanager (1 scala source)
+2025.06.01 14:00:57 INFO  time: compiled passmanager in 0.49s
+exception caught when loading class module-info: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+2025.06.01 14:01:08 INFO  compiling passmanager (1 scala source)
+2025.06.01 14:01:08 INFO  time: compiled passmanager in 0.57s
+Ë˛Ì. 01, 2025 2:01:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1529
+2025.06.01 14:01:28 INFO  compiling passmanager (1 scala source)
+2025.06.01 14:01:28 INFO  time: compiled passmanager in 0.46s
+2025.06.01 14:01:38 INFO  compiling passmanager (1 scala source)
+2025.06.01 14:01:38 INFO  time: compiled passmanager in 0.43s
+Ë˛Ì. 01, 2025 2:01:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1588
+exception caught when loading class module-info: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+2025.06.01 14:01:47 INFO  compiling passmanager (1 scala source)
+2025.06.01 14:01:47 WARN  Could not load snapshot text for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\UI\SearchBarView.scala
+2025.06.01 14:01:47 WARN  Could not load snapshot text for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\UI\SearchBarView.scala
+2025.06.01 14:01:47 INFO  time: compiled passmanager in 0.4s
+2025.06.01 14:01:55 WARN  Could not load snapshot text for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\UI\MainView.scala
+2025.06.01 14:01:55 WARN  Could not load snapshot text for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\UI\MainView.scala
+2025.06.01 14:01:55 WARN  Could not load snapshot text for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\UI\MainView.scala
+Exception in thread "pool-9-thread-1" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:244)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2025.06.01 14:01:55 WARN  Could not load snapshot text for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\UI\MainView.scala
+2025.06.01 14:01:55 WARN  Could not load snapshot text for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\UI\MainView.scala
+2025.06.01 14:01:55 WARN  Could not load snapshot text for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\UI\MainView.scala
+2025.06.01 14:01:55 WARN  Could not load snapshot text for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\UI\MainView.scala
+2025.06.01 14:01:55 WARN  Could not load snapshot text for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\UI\MainView.scala
+2025.06.01 14:01:55 INFO  compiling passmanager (1 scala source)
+Ë˛Ì. 01, 2025 2:01:55 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: UI/`<import>`. (full report at: C:\Users\danch\Documents\‘ËÀœ -  –\.metals\.reports\metals-full\2025-06-01\r_empty-definition_(passmanager)_14-01-55-500.md)
+2025.06.01 14:01:55 INFO  time: compiled passmanager in 0.47s
+2025.06.01 14:02:14 INFO  compiling passmanager (1 scala source)
+2025.06.01 14:02:14 INFO  time: compiled passmanager in 0.33s
+exception caught when loading class module-info: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+Ë˛Ì. 01, 2025 2:02:41 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\danch\Documents\‘ËÀœ -  –\.metals\.reports\metals-full\2025-06-01\r_empty-definition_(passmanager)_13-35-31-777.md)
+2025.06.01 14:02:41 INFO  compiling passmanager (1 scala source)
+Ë˛Ì. 01, 2025 2:02:41 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\danch\Documents\‘ËÀœ -  –\.metals\.reports\metals-full\2025-06-01\r_empty-definition_(passmanager)_13-35-31-777.md)
+2025.06.01 14:02:41 INFO  time: compiled passmanager in 0.4s
+exception caught when loading class module-info: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+Ë˛Ì. 01, 2025 2:03:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1868
+2025.06.01 14:03:37 INFO  compiling passmanager (1 scala source)
+2025.06.01 14:03:37 INFO  time: compiled passmanager in 0.63s
+2025.06.01 14:03:53 INFO  compiling passmanager (1 scala source)
+2025.06.01 14:03:53 INFO  time: compiled passmanager in 0.6s
+Ë˛Ì. 01, 2025 2:06:15 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\danch\Documents\‘ËÀœ -  –\.metals\.reports\metals-full\2025-06-01\r_empty-definition_(passmanager)_13-35-31-777.md)
+2025.06.01 14:06:17 INFO  compiling passmanager (1 scala source)
+2025.06.01 14:06:17 INFO  time: compiled passmanager in 0.24s
+Ë˛Ì. 01, 2025 2:06:17 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\danch\Documents\‘ËÀœ -  –\.metals\.reports\metals-full\2025-06-01\r_empty-definition_(passmanager)_13-35-31-777.md)
+2025.06.01 14:06:27 INFO  compiling passmanager (1 scala source)
+2025.06.01 14:06:27 INFO  time: compiled passmanager in 0.15s
+2025.06.01 14:08:08 INFO  compiling passmanager (1 scala source)
+2025.06.01 14:08:08 INFO  time: compiled passmanager in 0.42s
+Ë˛Ì. 01, 2025 2:09:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2347
+Ë˛Ì. 01, 2025 2:09:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2348
+2025.06.01 14:09:51 INFO  compiling passmanager (1 scala source)
+exception caught when loading class module-info: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+2025.06.01 14:09:51 INFO  time: compiled passmanager in 0.25s
+Ë˛Ì. 01, 2025 2:09:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2400
+2025.06.01 14:10:06 INFO  compiling passmanager (1 scala source)
+2025.06.01 14:10:06 INFO  time: compiled passmanager in 0.54s
+2025.06.01 14:14:51 INFO  compiling passmanager (1 scala source)
+2025.06.01 14:14:51 INFO  time: compiled passmanager in 0.35s
+exception caught when loading class module-info: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+2025.06.01 14:16:53 INFO  compiling passmanager (1 scala source)
+2025.06.01 14:16:53 INFO  time: compiled passmanager in 0.73s
+exception caught when loading class module-info: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+2025.06.01 14:17:53 INFO  compiling passmanager (1 scala source)
+Ë˛Ì. 01, 2025 2:17:54 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\danch\Documents\‘ËÀœ -  –\.metals\.reports\metals-full\2025-05-15\r_empty-definition_(passmanager)_13-52-05-136.md)
+Ë˛Ì. 01, 2025 2:17:55 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\danch\Documents\‘ËÀœ -  –\.metals\.reports\metals-full\2025-05-15\r_empty-definition_(passmanager)_13-52-05-136.md)
+Exception in thread "pool-9-thread-2" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:244)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Exception in thread "pool-9-thread-3" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:244)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Exception in thread "pool-9-thread-4" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:244)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2025.06.01 14:17:57 INFO  time: compiled passmanager in 3.43s
+2025.06.01 14:17:57 INFO  compiling passmanager (1 scala source)
+Ë˛Ì. 01, 2025 2:17:59 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\danch\Documents\‘ËÀœ -  –\.metals\.reports\metals-full\2025-05-15\r_empty-definition_(passmanager)_13-52-05-136.md)
+Exception in thread "pool-9-thread-5" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:244)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Ë˛Ì. 01, 2025 2:17:59 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\danch\Documents\‘ËÀœ -  –\.metals\.reports\metals-full\2025-05-15\r_empty-definition_(passmanager)_13-52-05-136.md)
+2025.06.01 14:18:01 INFO  time: compiled passmanager in 3.63s
+2025.06.01 14:18:10 INFO  time: compiled passmanager in 27ms
+2025.06.01 14:20:28 WARN  Could not find semantic tokens for: file:///C:/Users/danch/Documents/‘ËÀœ%20-%20 –/passmanager/src/main/scala/UI/PasswordTableView.scala
+2025.06.01 14:20:31 INFO  compiling passmanager (1 scala source)
+2025.06.01 14:20:33 INFO  time: compiled passmanager in 2.69s
+2025.06.01 14:21:42 INFO  compiling passmanager (1 scala source)
+2025.06.01 14:21:45 INFO  time: compiled passmanager in 2.43s
+Ë˛Ì. 01, 2025 2:22:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2957
+2025.06.01 14:22:09 INFO  compiling passmanager (1 scala source)
+2025.06.01 14:22:10 INFO  time: compiled passmanager in 1.67s
+Ë˛Ì. 01, 2025 2:22:21 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\danch\Documents\‘ËÀœ -  –\.metals\.reports\metals-full\2025-05-15\r_empty-definition_(passmanager)_13-52-05-136.md)
+2025.06.01 14:22:23 INFO  compiling passmanager (1 scala source)
+2025.06.01 14:22:23 INFO  time: compiled passmanager in 0.98s
+2025.06.01 14:22:29 INFO  compiling passmanager (1 scala source)
+2025.06.01 14:22:30 INFO  time: compiled passmanager in 1.65s
+2025.06.01 14:23:06 INFO  compiling passmanager (1 scala source)
+2025.06.01 14:23:07 INFO  time: compiled passmanager in 1.08s
+2025.06.01 14:24:13 INFO  compiling passmanager (1 scala source)
+2025.06.01 14:24:14 INFO  time: compiled passmanager in 1.11s
+Ë˛Ì. 01, 2025 2:25:08 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\danch\Documents\‘ËÀœ -  –\.metals\.reports\metals-full\2025-05-15\r_empty-definition_(passmanager)_13-52-05-136.md)
+2025.06.01 14:25:13 INFO  compiling passmanager (1 scala source)
+2025.06.01 14:25:13 INFO  time: compiled passmanager in 0.75s
+exception caught when loading class module-info: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+2025.06.01 14:26:24 WARN  Could not find semantic tokens for: file:///C:/Users/danch/Documents/‘ËÀœ%20-%20 –/passmanager/src/main/scala/UI/PasswordTableView.scala
+2025.06.01 14:26:25 INFO  compiling passmanager (1 scala source)
+2025.06.01 14:26:26 INFO  time: compiled passmanager in 1.19s
+2025.06.01 14:30:16 INFO  compiling passmanager (1 scala source)
+2025.06.01 14:30:16 INFO  time: compiled passmanager in 0.41s
+exception caught when loading class module-info: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+2025.06.01 14:32:05 INFO  compiling passmanager (1 scala source)
+2025.06.01 14:32:08 INFO  time: compiled passmanager in 3.15s
+exception caught when loading class module-info: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+Exception in thread "pool-9-thread-6" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:244)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Exception in thread "pool-9-thread-7" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:244)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Exception in thread "pool-9-thread-8" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:244)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2025.06.01 14:33:40 INFO  compiling passmanager (1 scala source)
+Ë˛Ì. 01, 2025 2:33:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3681
+Ë˛Ì. 01, 2025 2:33:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3684
+2025.06.01 14:33:41 INFO  time: compiled passmanager in 1.27s
+2025.06.01 14:34:19 INFO  compiling passmanager (1 scala source)
+2025.06.01 14:34:21 INFO  time: compiled passmanager in 1.91s
+2025.06.01 14:34:21 INFO  compiling passmanager (1 scala source)
+2025.06.01 14:34:24 INFO  time: compiled passmanager in 1.96s
+2025.06.01 14:34:49 INFO  compiling passmanager (1 scala source)
+2025.06.01 14:34:50 INFO  time: compiled passmanager in 1.16s
+2025.06.01 14:35:02 INFO  compiling passmanager (1 scala source)
+2025.06.01 14:35:03 INFO  time: compiled passmanager in 1.18s
+2025.06.01 14:35:13 INFO  compiling passmanager (1 scala source)
+2025.06.01 14:35:14 INFO  time: compiled passmanager in 1.55s
+exception caught when loading class module-info: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+2025.06.01 14:35:58 INFO  compiling passmanager (1 scala source)
+2025.06.01 14:36:01 INFO  time: compiled passmanager in 2.05s
+Exception in thread "pool-9-thread-9" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:244)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2025.06.01 14:36:39 INFO  compiling passmanager (1 scala source)
+2025.06.01 14:36:41 INFO  time: compiled passmanager in 1.51s
+2025.06.01 14:37:19 INFO  compiling passmanager (1 scala source)
+2025.06.01 14:37:19 INFO  time: compiled passmanager in 0.86s
+Ë˛Ì. 01, 2025 2:37:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4191
+Ë˛Ì. 01, 2025 2:37:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4193
+Ë˛Ì. 01, 2025 2:37:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4192
+Ë˛Ì. 01, 2025 2:37:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4196
+Ë˛Ì. 01, 2025 2:37:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4194
+Exception in thread "pool-9-thread-10" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:244)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Exception in thread "pool-9-thread-11" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:244)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Exception in thread "pool-9-thread-12" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:244)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Ë˛Ì. 01, 2025 2:37:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4247
+Ë˛Ì. 01, 2025 2:37:43 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: UI/`<import>`. (full report at: C:\Users\danch\Documents\‘ËÀœ -  –\.metals\.reports\metals-full\2025-06-01\r_empty-definition_(passmanager)_14-01-55-500.md)
+2025.06.01 14:37:43 INFO  compiling passmanager (1 scala source)
+2025.06.01 14:37:43 INFO  time: compiled passmanager in 0.98s
+2025.06.01 14:38:08 INFO  compiling passmanager (1 scala source)
+2025.06.01 14:38:09 INFO  time: compiled passmanager in 1.16s
+exception caught when loading class module-info: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+2025.06.01 14:42:50 INFO  compiling passmanager (1 scala source)
+2025.06.01 14:42:52 INFO  time: compiled passmanager in 2.15s
+2025.06.01 14:43:20 INFO  compiling passmanager (1 scala source)
+2025.06.01 14:43:22 INFO  time: compiled passmanager in 1.6s
+2025.06.01 14:44:33 WARN  Could not find semantic tokens for: file:///C:/Users/danch/Documents/‘ËÀœ%20-%20 –/passmanager/src/main/scala/UI/PasswordTableView.scala
+2025.06.01 14:44:35 WARN  Could not find semantic tokens for: file:///C:/Users/danch/Documents/‘ËÀœ%20-%20 –/passmanager/src/main/scala/UI/PasswordTableView.scala
+2025.06.01 14:44:36 INFO  compiling passmanager (1 scala source)
+2025.06.01 14:44:38 INFO  time: compiled passmanager in 2.26s
+2025.06.01 14:45:44 INFO  compiling passmanager (1 scala source)
+2025.06.01 14:45:46 INFO  time: compiled passmanager in 1.71s
+Ë˛Ì. 01, 2025 2:46:01 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc:  (full report at: C:\Users\danch\Documents\‘ËÀœ -  –\.metals\.reports\metals-full\2025-06-01\r_empty-definition_(passmanager)_14-46-01-582.md)
+Ë˛Ì. 01, 2025 2:46:01 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc:  (full report at: C:\Users\danch\Documents\‘ËÀœ -  –\.metals\.reports\metals-full\2025-06-01\r_empty-definition_(passmanager)_14-46-01-582.md)
+Ë˛Ì. 01, 2025 2:46:01 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc:  (full report at: C:\Users\danch\Documents\‘ËÀœ -  –\.metals\.reports\metals-full\2025-06-01\r_empty-definition_(passmanager)_14-46-01-582.md)
+2025.06.01 14:46:11 WARN  Could not find semantic tokens for: file:///C:/Users/danch/Documents/‘ËÀœ%20-%20 –/passmanager/src/main/scala/UI/PasswordTableView.scala
+2025.06.01 14:46:15 INFO  compiling passmanager (1 scala source)
+2025.06.01 14:46:17 INFO  time: compiled passmanager in 1.85s
+2025.06.01 14:49:03 WARN  Could not find semantic tokens for: file:///C:/Users/danch/Documents/‘ËÀœ%20-%20 –/passmanager/src/main/scala/UI/PasswordTableView.scala
+2025.06.01 14:49:04 WARN  Could not find semantic tokens for: file:///C:/Users/danch/Documents/‘ËÀœ%20-%20 –/passmanager/src/main/scala/UI/PasswordTableView.scala
+2025.06.01 14:49:06 INFO  compiling passmanager (1 scala source)
+2025.06.01 14:49:07 INFO  time: compiled passmanager in 1.9s
+exception caught when loading class module-info: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+Ë˛Ì. 01, 2025 2:56:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5042
+Ë˛Ì. 01, 2025 2:56:01 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\danch\Documents\‘ËÀœ -  –\.metals\.reports\metals-full\2025-06-01\r_empty-definition_(passmanager)_14-56-01-332.md)
+2025.06.01 14:57:35 WARN  Could not find semantic tokens for: file:///C:/Users/danch/Documents/‘ËÀœ%20-%20 –/passmanager/src/main/scala/core/SearchBar.scala
+2025.06.01 14:57:36 WARN  Could not find semantic tokens for: file:///C:/Users/danch/Documents/‘ËÀœ%20-%20 –/passmanager/src/main/scala/core/SearchBar.scala
+2025.06.01 14:57:38 INFO  compiling passmanager (1 scala source)
+2025.06.01 14:57:38 INFO  time: compiled passmanager in 0.74s
+2025.06.01 14:58:44 INFO  compiling passmanager (1 scala source)
+2025.06.01 14:58:44 INFO  time: compiled passmanager in 0.62s
+2025.06.01 14:58:49 INFO  compiling passmanager (1 scala source)
+exception caught when loading class module-info: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+2025.06.01 14:58:49 INFO  time: compiled passmanager in 0.66s
+exception caught when loading class module-info: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+Ë˛Ì. 01, 2025 2:59:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5190
+Exception in thread "pool-9-thread-13" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:244)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Ë˛Ì. 01, 2025 3:00:20 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\danch\Documents\‘ËÀœ -  –\.metals\.reports\metals-full\2025-05-15\r_empty-definition_(passmanager)_13-37-53-392.md)
+Ë˛Ì. 01, 2025 3:02:22 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\danch\Documents\‘ËÀœ -  –\.metals\.reports\metals-full\2025-06-01\r_empty-definition_(passmanager)_15-02-22-087.md)
+2025.06.01 15:02:46 INFO  compiling passmanager (1 scala source)
+2025.06.01 15:02:48 INFO  time: compiled passmanager in 2.05s
+2025.06.01 15:03:37 INFO  compiling passmanager (1 scala source)
+2025.06.01 15:03:39 INFO  time: compiled passmanager in 1.93s
+2025.06.01 15:03:44 INFO  compiling passmanager (1 scala source)
+2025.06.01 15:03:46 INFO  time: compiled passmanager in 1.79s
+2025.06.01 15:03:55 INFO  time: compiled passmanager in 34ms
+exception caught when loading class module-info: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+Ë˛Ì. 01, 2025 3:04:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5564
+2025.06.01 15:04:52 INFO  compiling passmanager (1 scala source)
+2025.06.01 15:04:53 INFO  time: compiled passmanager in 1.06s
+exception caught when loading class module-info: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+2025.06.01 15:05:12 INFO  compiling passmanager (1 scala source)
+2025.06.01 15:05:12 INFO  time: compiled passmanager in 0.89s
+exception caught when loading class module-info: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+2025.06.01 15:09:04 WARN  Could not find semantic tokens for: file:///C:/Users/danch/Documents/‘ËÀœ%20-%20 –/passmanager/src/main/scala/core/SearchBar.scala
+2025.06.01 15:09:06 WARN  Could not find semantic tokens for: file:///C:/Users/danch/Documents/‘ËÀœ%20-%20 –/passmanager/src/main/scala/core/SearchBar.scala
+2025.06.01 15:09:07 INFO  compiling passmanager (1 scala source)
+2025.06.01 15:09:07 INFO  time: compiled passmanager in 0.75s
+exception caught when loading class module-info: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+2025.06.01 15:09:51 INFO  compiling passmanager (1 scala source)
+2025.06.01 15:09:51 INFO  time: compiled passmanager in 0.59s
+2025.06.01 15:10:00 INFO  compiling passmanager (1 scala source)
+2025.06.01 15:10:02 INFO  time: compiled passmanager in 1.67s
+Ë˛Ì. 01, 2025 3:10:50 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: UI/`<import>`. (full report at: C:\Users\danch\Documents\‘ËÀœ -  –\.metals\.reports\metals-full\2025-06-01\r_empty-definition_(passmanager)_15-10-50-125.md)
+Ë˛Ì. 01, 2025 3:10:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5962
+2025.06.01 15:10:58 INFO  compiling passmanager (1 scala source)
+2025.06.01 15:11:00 INFO  time: compiled passmanager in 2.46s
+exception caught when loading class module-info: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+2025.06.01 15:11:06 INFO  compiling passmanager (1 scala source)
+2025.06.01 15:11:08 INFO  time: compiled passmanager in 1.89s
+exception caught when loading class module-info: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+Ë˛Ì. 01, 2025 3:12:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6167
+2025.06.01 15:12:41 INFO  compiling passmanager (1 scala source)
+2025.06.01 15:12:41 INFO  time: compiled passmanager in 0.77s
+2025.06.01 15:13:40 INFO  compiling passmanager (1 scala source)
+2025.06.01 15:13:40 INFO  time: compiled passmanager in 0.72s
+2025.06.01 15:13:50 INFO  compiling passmanager (1 scala source)
+2025.06.01 15:13:50 INFO  time: compiled passmanager in 0.59s
+exception caught when loading class module-info: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+2025.06.01 15:14:46 INFO  compiling passmanager (1 scala source)
+2025.06.01 15:14:46 INFO  time: compiled passmanager in 0.66s
+2025.06.01 15:15:35 INFO  compiling passmanager (1 scala source)
+2025.06.01 15:15:37 INFO  time: compiled passmanager in 1.77s
+2025.06.01 15:15:58 INFO  compiling passmanager (1 scala source)
+2025.06.01 15:16:00 INFO  time: compiled passmanager in 2.04s
+2025.06.01 15:16:51 INFO  compiling passmanager (1 scala source)
+2025.06.01 15:16:53 INFO  time: compiled passmanager in 2.13s
+2025.06.01 15:17:11 INFO  compiling passmanager (1 scala source)
+2025.06.01 15:17:13 INFO  time: compiled passmanager in 1.84s
+Ë˛Ì. 01, 2025 3:17:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6785
+exception caught when loading class module-info: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+Ë˛Ì. 01, 2025 3:17:36 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\danch\Documents\‘ËÀœ -  –\.metals\.reports\metals-full\2025-05-15\r_empty-definition_(passmanager)_13-52-05-136.md)
+2025.06.01 15:18:43 INFO  compiling passmanager (1 scala source)
+2025.06.01 15:18:45 INFO  time: compiled passmanager in 2.03s
+2025.06.01 15:19:03 INFO  compiling passmanager (1 scala source)
+2025.06.01 15:19:04 INFO  time: compiled passmanager in 1.47s
+2025.06.01 15:19:14 INFO  compiling passmanager (1 scala source)
+2025.06.01 15:19:16 INFO  time: compiled passmanager in 1.61s
+2025.06.01 15:19:28 INFO  compiling passmanager (1 scala source)
+2025.06.01 15:19:30 INFO  time: compiled passmanager in 1.85s
+exception caught when loading class module-info: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+2025.06.01 15:20:02 INFO  compiling passmanager (1 scala source)
+Ë˛Ì. 01, 2025 3:20:02 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: UI/`<import>`. (full report at: C:\Users\danch\Documents\‘ËÀœ -  –\.metals\.reports\metals-full\2025-06-01\r_empty-definition_(passmanager)_15-10-50-125.md)
+2025.06.01 15:20:04 INFO  time: compiled passmanager in 1.91s
+exception caught when loading class module-info: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+2025.06.01 15:20:16 WARN  Could not load snapshot text for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\UI\PasswordTableView.scala
+Ë˛Ì. 01, 2025 3:20:16 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\danch\Documents\‘ËÀœ -  –\.metals\.reports\metals-full\2025-05-15\r_empty-definition_(passmanager)_13-52-05-136.md)
+2025.06.01 15:20:16 INFO  compiling passmanager (1 scala source)
+2025.06.01 15:20:17 INFO  time: compiled passmanager in 1.7s
+2025.06.01 15:20:26 INFO  compiling passmanager (1 scala source)
+Ë˛Ì. 01, 2025 3:20:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7069
+Ë˛Ì. 01, 2025 3:20:26 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: UI/`<import>`. (full report at: C:\Users\danch\Documents\‘ËÀœ -  –\.metals\.reports\metals-full\2025-06-01\r_empty-definition_(passmanager)_15-10-50-125.md)
+2025.06.01 15:20:28 INFO  time: compiled passmanager in 1.67s
+Ë˛Ì. 01, 2025 3:21:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7159
+Ë˛Ì. 01, 2025 3:21:34 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\danch\Documents\‘ËÀœ -  –\.metals\.reports\metals-full\2025-05-15\r_empty-definition_(passmanager)_13-52-05-136.md)
+Ë˛Ì. 01, 2025 3:22:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7186
+2025.06.01 15:22:48 INFO  compiling passmanager (1 scala source)
+2025.06.01 15:22:50 INFO  time: compiled passmanager in 2.1s
+2025.06.01 15:23:02 INFO  compiling passmanager (1 scala source)
+2025.06.01 15:23:04 INFO  time: compiled passmanager in 1.82s
+2025.06.01 15:23:34 INFO  compiling passmanager (1 scala source)
+2025.06.01 15:23:36 INFO  time: compiled passmanager in 1.7s
+2025.06.01 15:24:09 INFO  compiling passmanager (1 scala source)
+2025.06.01 15:24:12 INFO  time: compiled passmanager in 2.21s
+2025.06.01 15:24:18 INFO  compiling passmanager (1 scala source)
+2025.06.01 15:24:20 INFO  time: compiled passmanager in 1.69s
+2025.06.01 15:24:51 INFO  compiling passmanager (1 scala source)
+2025.06.01 15:24:53 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2025.06.01 15:24:53 INFO  time: compiled passmanager in 1.9s
+2025.06.01 15:25:01 INFO  compiling passmanager (1 scala source)
+2025.06.01 15:25:03 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2025.06.01 15:25:03 INFO  time: compiled passmanager in 1.74s
+Ë˛Ì. 01, 2025 3:25:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7639
+2025.06.01 15:25:16 INFO  compiling passmanager (1 scala source)
+2025.06.01 15:25:20 INFO  time: compiled passmanager in 3.68s
+Ë˛Ì. 01, 2025 3:25:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7682
+2025.06.01 15:25:22 INFO  compiling passmanager (1 scala source)
+2025.06.01 15:25:24 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2025.06.01 15:25:24 INFO  time: compiled passmanager in 1.65s
+2025.06.01 15:25:35 INFO  compiling passmanager (1 scala source)
+2025.06.01 15:25:36 INFO  time: compiled passmanager in 1.51s
+2025.06.01 15:25:52 INFO  compiling passmanager (1 scala source)
+Exception in thread "pool-9-thread-14" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:244)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2025.06.01 15:25:54 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2025.06.01 15:25:54 INFO  time: compiled passmanager in 1.75s
+2025.06.01 15:28:07 INFO  compiling passmanager (1 scala source)
+2025.06.01 15:28:09 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2025.06.01 15:28:09 INFO  time: compiled passmanager in 1.79s
+Ë˛Ì. 01, 2025 3:28:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7996
+2025.06.01 15:28:42 INFO  compiling passmanager (1 scala source)
+2025.06.01 15:28:44 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2025.06.01 15:28:44 INFO  time: compiled passmanager in 1.88s
+Ë˛Ì. 01, 2025 3:29:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8112
+2025.06.01 15:29:10 INFO  compiling passmanager (1 scala source)
+2025.06.01 15:29:12 INFO  time: compiled passmanager in 1.34s
+2025.06.01 15:29:52 INFO  compiling passmanager (1 scala source)
+2025.06.01 15:29:55 INFO  time: compiled passmanager in 2.66s
+exception caught when loading class module-info: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+2025.06.01 15:30:56 INFO  time: compiled passmanager in 23ms
+Ë˛Ì. 01, 2025 3:31:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8519
+Ë˛Ì. 01, 2025 3:31:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8526
+2025.06.01 15:32:22 INFO  compiling passmanager (1 scala source)
+2025.06.01 15:32:23 INFO  time: compiled passmanager in 1.47s
+2025.06.01 15:32:39 INFO  compiling passmanager (1 scala source)
+2025.06.01 15:32:41 INFO  time: compiled passmanager in 1.86s
+Ë˛Ì. 01, 2025 3:32:59 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\danch\Documents\‘ËÀœ -  –\.metals\.reports\metals-full\2025-05-15\r_empty-definition_(passmanager)_13-52-05-136.md)
+2025.06.01 15:33:00 INFO  compiling passmanager (1 scala source)
+2025.06.01 15:33:02 INFO  time: compiled passmanager in 1.79s
+2025.06.01 15:35:06 INFO  compiling passmanager (1 scala source)
+2025.06.01 15:35:07 INFO  time: compiled passmanager in 1.83s
+2025.06.01 15:37:09 INFO  compiling passmanager (1 scala source)
+2025.06.01 15:37:11 INFO  time: compiled passmanager in 2.02s
+2025.06.01 15:38:00 INFO  Shutting down server
+2025.06.01 15:38:00 INFO  shutting down Metals
+2025.06.01 15:38:00 INFO  Shut down connection with build server.
+2025.06.01 15:38:00 INFO  Shut down connection with build server.
+2025.06.01 15:38:00 INFO  Shut down connection with build server.
+2025.06.01 15:38:00 INFO  Exiting server
+2025.06.01 15:38:42 INFO  Started: Metals version 1.5.3 in folders 'C:\Users\danch\Documents\‘ËÀœ, C:\Users\danch\Documents\UI, C:\Users\danch\Documents\‘ËÀœ -  –' for client Visual Studio Code 1.100.2.
+2025.06.01 15:38:43 INFO  Database: jdbc:h2:file:C:\Users\danch\Documents\‘ËÀœ -  –\.metals\metals (H2 2.3)
+2025.06.01 15:38:43 INFO  Successfully validated 6 migrations (execution time 00:00.086s)
+2025.06.01 15:38:43 INFO  Current version of schema "PUBLIC": 6
+2025.06.01 15:38:43 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2025.06.01 15:38:43 INFO  no build target found for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\core\SearchBar.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.01 15:38:45 INFO  no build target found for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\core\SearchBar.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.01 15:38:45 INFO  Attempting to connect to the build server...
+2025.06.01 15:38:45 INFO  Database: jdbc:h2:file:C:\Users\danch\Documents\UI\.metals\metals (H2 2.3)
+2025.06.01 15:38:45 INFO  Database: jdbc:h2:file:C:\Users\danch\Documents\‘ËÀœ\.metals\metals (H2 2.3)
+2025.06.01 15:38:45 INFO  Found a Bloop server running
+2025.06.01 15:38:45 INFO  Successfully validated 6 migrations (execution time 00:00.007s)
+2025.06.01 15:38:45 INFO  Successfully validated 6 migrations (execution time 00:00.009s)
+2025.06.01 15:38:45 INFO  Current version of schema "PUBLIC": 6
+2025.06.01 15:38:45 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2025.06.01 15:38:45 INFO  Current version of schema "PUBLIC": 6
+2025.06.01 15:38:45 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2025.06.01 15:38:45 INFO  Attempting to connect to the build server...
+2025.06.01 15:38:45 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\danch\Documents\‘ËÀœ -  –\.metals\bsp.trace.json or C:\Users\danch\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.06.01 15:38:45 INFO  Found a Bloop server running
+2025.06.01 15:38:45 INFO  Attempting to connect to the build server...
+2025.06.01 15:38:45 INFO  Found a Bloop server running
+2025.06.01 15:38:45 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\danch\Documents\UI\.metals\bsp.trace.json or C:\Users\danch\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.06.01 15:38:45 INFO  time: Connected to build server in 0.38s
+2025.06.01 15:38:45 INFO  Connected to Build server: Bloop v2.0.10
+2025.06.01 15:38:45 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\danch\Documents\‘ËÀœ\.metals\bsp.trace.json or C:\Users\danch\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.06.01 15:38:45 INFO  time: Connected to build server in 0.13s
+2025.06.01 15:38:45 INFO  Connected to Build server: Bloop v2.0.10
+2025.06.01 15:38:45 INFO  time: Connected to build server in 0.13s
+2025.06.01 15:38:45 INFO  Connected to Build server: Bloop v2.0.10
+2025.06.01 15:38:46 WARN  2.13.12 is no longer supported in the current Metals versions, using the last known supported version 1.4.2
+2025.06.01 15:38:51 INFO  Database: jdbc:h2:file:C:\Users\danch\AppData\Roaming\metals\data\metals (H2 2.3)
+2025.06.01 15:38:51 INFO  Database: jdbc:h2:file:C:\Users\danch\AppData\Roaming\metals\data\metals (H2 2.3)
+2025.06.01 15:38:51 INFO  Database: jdbc:h2:file:C:\Users\danch\AppData\Roaming\metals\data\metals (H2 2.3)
+2025.06.01 15:38:51 INFO  Successfully validated 1 migration (execution time 00:00.003s)
+2025.06.01 15:38:51 INFO  Successfully validated 1 migration (execution time 00:00.003s)
+2025.06.01 15:38:51 INFO  Successfully validated 1 migration (execution time 00:00.003s)
+2025.06.01 15:38:51 INFO  Current version of schema "PUBLIC": 1
+2025.06.01 15:38:51 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2025.06.01 15:38:51 INFO  Current version of schema "PUBLIC": 1
+2025.06.01 15:38:51 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2025.06.01 15:38:51 INFO  Current version of schema "PUBLIC": 1
+2025.06.01 15:38:51 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2025.06.01 15:38:51 INFO  time: indexed workspace in 5.43s
+2025.06.01 15:38:51 WARN  no build target for: C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\Main.scala
+2025.06.01 15:38:51 WARN  no build target for: C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\core\SearchBar.scala
+2025.06.01 15:38:51 INFO  time: indexed workspace in 5.53s
+2025.06.01 15:38:51 WARN  no build target for: C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\Main.scala
+2025.06.01 15:38:51 WARN  no build target for: C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\core\SearchBar.scala
+2025.06.01 15:38:51 INFO  time: indexed workspace in 5.64s
+exception caught when loading class module-info: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+Ë˛Ì. 01, 2025 3:39:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 26
+Ë˛Ì. 01, 2025 3:43:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 116
+2025.06.01 15:43:16 INFO  compiling passmanager (1 scala source)
+2025.06.01 15:43:16 INFO  time: compiled passmanager in 0.74s
+2025.06.01 15:43:22 INFO  compiling passmanager (1 scala source)
+2025.06.01 15:43:22 INFO  time: compiled passmanager in 0.6s
+exception caught when loading class module-info: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+2025.06.01 15:44:30 INFO  compiling passmanager (1 scala source)
+2025.06.01 15:44:30 INFO  time: compiled passmanager in 0.4s
+2025.06.01 15:44:34 INFO  compiling passmanager (1 scala source)
+2025.06.01 15:44:34 INFO  time: compiled passmanager in 0.42s
+2025.06.01 15:44:46 INFO  compiling passmanager (1 scala source)
+2025.06.01 15:44:46 INFO  time: compiled passmanager in 0.27s
+2025.06.01 15:44:52 INFO  time: compiled passmanager in 44ms
+exception caught when loading class module-info: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+2025.06.01 15:48:57 INFO  compiling passmanager (1 scala source)
+2025.06.01 15:48:57 INFO  time: compiled passmanager in 0.37s
+exception caught when loading class module-info: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+2025.06.01 15:51:43 INFO  Shutting down server
+2025.06.01 15:51:43 INFO  shutting down Metals
+2025.06.01 15:51:43 INFO  Shut down connection with build server.
+2025.06.01 15:51:43 INFO  Shut down connection with build server.
+2025.06.01 15:51:43 INFO  Shut down connection with build server.
+2025.06.01 15:51:43 INFO  Exiting server
+2025.06.01 15:52:00 INFO  Started: Metals version 1.5.3 in folders 'C:\Users\danch\Documents\‘ËÀœ, C:\Users\danch\Documents\UI, C:\Users\danch\Documents\‘ËÀœ -  –' for client Visual Studio Code 1.100.2.
+2025.06.01 15:52:01 INFO  Database: jdbc:h2:file:C:\Users\danch\Documents\‘ËÀœ -  –\.metals\metals (H2 2.3)
+2025.06.01 15:52:01 INFO  Successfully validated 6 migrations (execution time 00:00.045s)
+2025.06.01 15:52:01 INFO  Current version of schema "PUBLIC": 6
+2025.06.01 15:52:01 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2025.06.01 15:52:01 INFO  no build target found for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.01 15:52:03 INFO  no build target found for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.01 15:52:03 INFO  no build target found for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.01 15:52:03 INFO  Attempting to connect to the build server...
+2025.06.01 15:52:03 INFO  Database: jdbc:h2:file:C:\Users\danch\Documents\UI\.metals\metals (H2 2.3)
+2025.06.01 15:52:03 INFO  Database: jdbc:h2:file:C:\Users\danch\Documents\‘ËÀœ\.metals\metals (H2 2.3)
+2025.06.01 15:52:03 INFO  Found a Bloop server running
+2025.06.01 15:52:03 INFO  Successfully validated 6 migrations (execution time 00:00.007s)
+2025.06.01 15:52:03 INFO  Successfully validated 6 migrations (execution time 00:00.007s)
+2025.06.01 15:52:03 INFO  Current version of schema "PUBLIC": 6
+2025.06.01 15:52:03 INFO  Current version of schema "PUBLIC": 6
+2025.06.01 15:52:03 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2025.06.01 15:52:03 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2025.06.01 15:52:03 INFO  Attempting to connect to the build server...
+2025.06.01 15:52:03 INFO  Attempting to connect to the build server...
+2025.06.01 15:52:03 INFO  Found a Bloop server running
+2025.06.01 15:52:03 INFO  Found a Bloop server running
+2025.06.01 15:52:03 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\danch\Documents\‘ËÀœ -  –\.metals\bsp.trace.json or C:\Users\danch\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.06.01 15:52:03 INFO  time: Connected to build server in 0.35s
+2025.06.01 15:52:03 INFO  Connected to Build server: Bloop v2.0.10
+2025.06.01 15:52:03 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\danch\Documents\‘ËÀœ\.metals\bsp.trace.json or C:\Users\danch\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.06.01 15:52:03 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\danch\Documents\UI\.metals\bsp.trace.json or C:\Users\danch\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.06.01 15:52:03 INFO  time: Connected to build server in 0.12s
+2025.06.01 15:52:03 INFO  Connected to Build server: Bloop v2.0.10
+2025.06.01 15:52:03 INFO  time: Connected to build server in 0.13s
+2025.06.01 15:52:03 INFO  Connected to Build server: Bloop v2.0.10
+2025.06.01 15:52:03 WARN  2.13.12 is no longer supported in the current Metals versions, using the last known supported version 1.4.2
+Ë˛Ì. 01, 2025 3:52:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+2025.06.01 15:52:13 INFO  Database: jdbc:h2:file:C:\Users\danch\AppData\Roaming\metals\data\metals (H2 2.3)
+2025.06.01 15:52:13 INFO  Database: jdbc:h2:file:C:\Users\danch\AppData\Roaming\metals\data\metals (H2 2.3)
+2025.06.01 15:52:13 INFO  Database: jdbc:h2:file:C:\Users\danch\AppData\Roaming\metals\data\metals (H2 2.3)
+2025.06.01 15:52:13 INFO  Successfully validated 1 migration (execution time 00:00.007s)
+2025.06.01 15:52:13 INFO  Successfully validated 1 migration (execution time 00:00.007s)
+2025.06.01 15:52:13 INFO  Successfully validated 1 migration (execution time 00:00.007s)
+2025.06.01 15:52:13 INFO  Current version of schema "PUBLIC": 1
+2025.06.01 15:52:13 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2025.06.01 15:52:13 INFO  Current version of schema "PUBLIC": 1
+2025.06.01 15:52:13 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2025.06.01 15:52:13 INFO  Current version of schema "PUBLIC": 1
+2025.06.01 15:52:13 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2025.06.01 15:52:13 INFO  time: indexed workspace in 10s
+2025.06.01 15:52:13 WARN  no build target for: C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\core\SearchBar.scala
+2025.06.01 15:52:14 WARN  no build target for: C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\Main.scala
+2025.06.01 15:52:13 INFO  time: indexed workspace in 10s
+2025.06.01 15:52:13 INFO  Disconnecting from Bloop session...
+2025.06.01 15:52:14 INFO  Shut down connection with build server.
+Ë˛Ì. 01, 2025 3:52:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint notify
+WARNING: Failed to send notification message.
+org.eclipse.lsp4j.jsonrpc.JsonRpcException: java.io.IOException: Connection reset by peer
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:72)
+	at scala.meta.internal.metals.RequestMonitorImpl$$anon$1.consume(ServerLivenessMonitor.scala:41)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.notify(RemoteEndpoint.java:135)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.sendCancelNotification(RemoteEndpoint.java:191)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint$1.cancel(RemoteEndpoint.java:160)
+	at scala.meta.internal.metals.utils.FutureWithTimeout$$anon$1.$anonfun$cancel$1(FutureWithTimeout.scala:37)
+	at scala.runtime.java8.JFunction0$mcZ$sp.apply(JFunction0$mcZ$sp.scala:17)
+	at scala.util.Try$.apply(Try.scala:217)
+	at scala.meta.internal.metals.utils.FutureWithTimeout$$anon$1.cancel(FutureWithTimeout.scala:37)
+	at scala.meta.internal.metals.Cancelable$.$anonfun$cancelAll$1(Cancelable.scala:29)
+	at scala.collection.immutable.List.foreach(List.scala:334)
+	at scala.meta.internal.metals.Cancelable$.cancelAll(Cancelable.scala:28)
+	at scala.meta.internal.metals.MutableCancelable.cancel(MutableCancelable.scala:25)
+	at scala.meta.internal.metals.utils.RequestRegistry.cancel(RequestRegistry.scala:99)
+	at scala.meta.internal.metals.BuildServerConnection.cancel(BuildServerConnection.scala:456)
+	at scala.meta.internal.metals.BuildServerConnection.$anonfun$shutdown$1(BuildServerConnection.scala:180)
+	at scala.meta.internal.metals.BuildServerConnection.$anonfun$shutdown$1$adapted(BuildServerConnection.scala:172)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.SocketDispatcher.write0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.write(SocketDispatcher.java:54)
+	at java.base/sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:132)
+	at java.base/sun.nio.ch.IOUtil.write(IOUtil.java:97)
+	at java.base/sun.nio.ch.IOUtil.write(IOUtil.java:53)
+	at java.base/sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:532)
+	at java.base/java.nio.channels.Channels.writeFullyImpl(Channels.java:74)
+	at java.base/java.nio.channels.Channels.writeFully(Channels.java:93)
+	at java.base/java.nio.channels.Channels$1.write(Channels.java:171)
+	at java.base/java.io.OutputStream.write(OutputStream.java:127)
+	at java.base/java.nio.channels.Channels$1.write(Channels.java:151)
+	at scala.meta.internal.metals.ClosableOutputStream.write(ClosableOutputStream.scala:26)
+	at java.base/java.io.FilterOutputStream.write(FilterOutputStream.java:137)
+	at java.base/java.io.FilterOutputStream.write(FilterOutputStream.java:108)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:67)
+	... 20 more
+
+2025.06.01 15:52:13 INFO  Scala test classes not supported by server
+2025.06.01 15:52:14 INFO  [0m[31m[E][0m Caught java.lang.InterruptedException
+2025.06.01 15:52:14 ERROR Bloop 'bsp' command exited with code 1. Something may be wrong with the current configuration.
+Running the [1mclean[0m sub-command to clear the working directory and remove caches might help.
+If the error persists, please report the issue as a bug and attach a log with increased verbosity by passing [1m-v -v -v[0m.
+2025.06.01 15:52:14 INFO  No running Bloop server found, starting one.
+2025.06.01 15:52:13 INFO  time: indexed workspace in 10s
+2025.06.01 15:52:14 INFO  No running Bloop server found, starting one.
+exception caught when loading class module-info: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+2025.06.01 15:52:14 INFO  Attempting to connect to the build server...
+2025.06.01 15:52:14 INFO  No running Bloop server found, starting one.
+2025.06.01 15:52:14 ERROR Bloop 'bsp' command exited with code 1. Something may be wrong with the current configuration.
+Running the [1mclean[0m sub-command to clear the working directory and remove caches might help.
+If the error persists, please report the issue as a bug and attach a log with increased verbosity by passing [1m-v -v -v[0m.
+2025.06.01 15:52:14 INFO  No running Bloop server found, starting one.
+2025.06.01 15:52:17 INFO  Starting compilation server
+2025.06.01 15:52:17 INFO  Starting compilation server
+2025.06.01 15:52:17 INFO  Starting compilation server
+2025.06.01 15:52:17 INFO  Starting compilation server
+2025.06.01 15:52:20 INFO  [0m[31m[E][0m Caught java.net.BindException: Address already in use: bind
+2025.06.01 15:52:20 ERROR Bloop 'bsp' command exited with code 1. Something may be wrong with the current configuration.
+Running the [1mclean[0m sub-command to clear the working directory and remove caches might help.
+If the error persists, please report the issue as a bug and attach a log with increased verbosity by passing [1m-v -v -v[0m.
+2025.06.01 15:52:20 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\danch\Documents\‘ËÀœ -  –\.metals\bsp.trace.json or C:\Users\danch\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.06.01 15:52:20 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\danch\Documents\‘ËÀœ -  –\.metals\bsp.trace.json or C:\Users\danch\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.06.01 15:52:20 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\danch\Documents\‘ËÀœ\.metals\bsp.trace.json or C:\Users\danch\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.06.01 15:52:20 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\danch\Documents\UI\.metals\bsp.trace.json or C:\Users\danch\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.06.01 15:52:24 INFO  time: Connected to build server in 9.25s
+2025.06.01 15:52:24 INFO  Connected to Build server: Bloop v2.0.10
+2025.06.01 15:52:24 INFO  time: Imported build in 0.15s
+2025.06.01 15:52:24 INFO  Connected to Build server: Bloop v2.0.10
+2025.06.01 15:52:24 INFO  Found a Bloop server running
+2025.06.01 15:52:24 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\danch\Documents\‘ËÀœ -  –\.metals\bsp.trace.json or C:\Users\danch\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.06.01 15:52:25 INFO  time: indexed workspace in 1.4s
+2025.06.01 15:52:25 WARN  no build target for: C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\core\SearchBar.scala
+2025.06.01 15:52:25 WARN  no build target for: C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\Main.scala
+2025.06.01 15:52:25 INFO  time: indexed workspace in 1.33s
+2025.06.01 15:52:25 WARN  no build target for: C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\Main.scala
+2025.06.01 15:52:25 WARN  no build target for: C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\core\SearchBar.scala
+2025.06.01 15:52:40 ERROR Timeout waiting for 'build/initialize' response
+2025.06.01 15:53:14 INFO  Scala main classes not supported by server
+java.util.concurrent.TimeoutException: Future timed out after [1 minute]
+	at scala.concurrent.impl.Promise$DefaultPromise.tryAwait0(Promise.scala:248)
+	at scala.concurrent.impl.Promise$DefaultPromise.result(Promise.scala:261)
+	at scala.concurrent.Await$.$anonfun$result$1(package.scala:201)
+	at scala.concurrent.BlockContext$DefaultBlockContext$.blockOn(BlockContext.scala:62)
+	at scala.concurrent.Await$.result(package.scala:124)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionScalaFuture.$anonfun$withTimeout$1(MetalsEnrichments.scala:296)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2025.06.01 15:56:49 INFO  compiling passmanager (1 scala source)
+2025.06.01 15:56:53 INFO  time: compiled passmanager in 4.15s
+exception caught when loading class module-info: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+2025.06.01 15:56:59 INFO  time: compiled passmanager in 35ms
+2025.06.01 15:57:05 INFO  Shutting down server
+2025.06.01 15:57:05 INFO  shutting down Metals
+2025.06.01 15:57:05 INFO  Shut down connection with build server.
+2025.06.01 15:57:05 INFO  Shut down connection with build server.
+2025.06.01 15:57:05 INFO  Shut down connection with build server.
+2025.06.01 15:57:05 INFO  Cancelling compilation on Bloop server
+2025.06.01 15:57:05 INFO  Exiting server
+2025.06.01 15:57:05 INFO  Connected to Build server: Bloop v2.0.10
+2025.06.01 15:57:17 INFO  Started: Metals version 1.5.3 in folders 'C:\Users\danch\Documents\‘ËÀœ, C:\Users\danch\Documents\UI, C:\Users\danch\Documents\‘ËÀœ -  –' for client Visual Studio Code 1.100.2.
+2025.06.01 15:57:21 INFO  Database: jdbc:h2:file:C:\Users\danch\Documents\‘ËÀœ -  –\.metals\metals (H2 2.3)
+2025.06.01 15:57:21 INFO  Successfully validated 6 migrations (execution time 00:00.066s)
+2025.06.01 15:57:21 INFO  Current version of schema "PUBLIC": 6
+2025.06.01 15:57:21 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2025.06.01 15:57:21 INFO  no build target found for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.01 15:57:21 INFO  no build target found for C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.06.01 15:57:22 INFO  Attempting to connect to the build server...
+2025.06.01 15:57:22 INFO  Database: jdbc:h2:file:C:\Users\danch\Documents\‘ËÀœ\.metals\metals (H2 2.3)
+2025.06.01 15:57:22 INFO  Database: jdbc:h2:file:C:\Users\danch\Documents\UI\.metals\metals (H2 2.3)
+2025.06.01 15:57:22 INFO  Successfully validated 6 migrations (execution time 00:00.013s)
+2025.06.01 15:57:22 INFO  Current version of schema "PUBLIC": 6
+2025.06.01 15:57:22 INFO  Successfully validated 6 migrations (execution time 00:00.011s)
+2025.06.01 15:57:22 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2025.06.01 15:57:22 INFO  Current version of schema "PUBLIC": 6
+2025.06.01 15:57:22 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2025.06.01 15:57:22 INFO  Found a Bloop server running
+2025.06.01 15:57:22 INFO  Attempting to connect to the build server...
+2025.06.01 15:57:22 INFO  Found a Bloop server running
+2025.06.01 15:57:22 INFO  Attempting to connect to the build server...
+2025.06.01 15:57:22 INFO  Found a Bloop server running
+2025.06.01 15:57:22 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\danch\Documents\UI\.metals\bsp.trace.json or C:\Users\danch\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.06.01 15:57:22 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\danch\Documents\‘ËÀœ -  –\.metals\bsp.trace.json or C:\Users\danch\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.06.01 15:57:22 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\danch\Documents\‘ËÀœ\.metals\bsp.trace.json or C:\Users\danch\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.06.01 15:57:22 INFO  time: Connected to build server in 0.3s
+2025.06.01 15:57:22 INFO  time: Connected to build server in 0.57s
+2025.06.01 15:57:22 INFO  time: Connected to build server in 0.28s
+2025.06.01 15:57:22 INFO  Connected to Build server: Bloop v2.0.10
+2025.06.01 15:57:22 INFO  Connected to Build server: Bloop v2.0.10
+2025.06.01 15:57:22 INFO  Connected to Build server: Bloop v2.0.10
+2025.06.01 15:57:22 INFO  time: Imported build in 0.21s
+2025.06.01 15:57:22 INFO  time: Imported build in 0.21s
+2025.06.01 15:57:22 INFO  time: Imported build in 0.21s
+2025.06.01 15:57:22 WARN  2.13.12 is no longer supported in the current Metals versions, using the last known supported version 1.4.2
+Ë˛Ì. 01, 2025 3:57:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7
+exception caught when loading module class module-info$: java.lang.AssertionError: assertion failed: attempt to parse java.lang.Object from classfile
+Ë˛Ì. 01, 2025 3:57:29 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: scala/Unit# (full report at: C:\Users\danch\Documents\‘ËÀœ -  –\.metals\.reports\metals-full\2025-06-01\r_empty-definition_(passmanager)_15-57-29-678.md)
+2025.06.01 15:57:32 INFO  Database: jdbc:h2:file:C:\Users\danch\AppData\Roaming\metals\data\metals (H2 2.3)
+2025.06.01 15:57:32 INFO  Database: jdbc:h2:file:C:\Users\danch\AppData\Roaming\metals\data\metals (H2 2.3)
+2025.06.01 15:57:32 INFO  Database: jdbc:h2:file:C:\Users\danch\AppData\Roaming\metals\data\metals (H2 2.3)
+2025.06.01 15:57:32 INFO  Successfully validated 1 migration (execution time 00:00.008s)
+2025.06.01 15:57:32 INFO  Successfully validated 1 migration (execution time 00:00.008s)
+2025.06.01 15:57:32 INFO  Successfully validated 1 migration (execution time 00:00.009s)
+2025.06.01 15:57:32 INFO  Current version of schema "PUBLIC": 1
+2025.06.01 15:57:32 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2025.06.01 15:57:32 INFO  Current version of schema "PUBLIC": 1
+2025.06.01 15:57:32 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2025.06.01 15:57:32 INFO  Current version of schema "PUBLIC": 1
+2025.06.01 15:57:32 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2025.06.01 15:57:32 INFO  time: indexed workspace in 10s
+2025.06.01 15:57:33 WARN  no build target for: C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\Main.scala
+2025.06.01 15:57:32 INFO  time: indexed workspace in 10s
+2025.06.01 15:57:33 WARN  no build target for: C:\Users\danch\Documents\‘ËÀœ -  –\passmanager\src\main\scala\Main.scala
+2025.06.01 15:57:32 INFO  time: indexed workspace in 9.56s
+2025.06.01 15:59:02 INFO  Shutting down server
+2025.06.01 15:59:02 INFO  shutting down Metals
+2025.06.01 15:59:02 INFO  Shut down connection with build server.
+2025.06.01 15:59:02 INFO  Shut down connection with build server.
+2025.06.01 15:59:02 INFO  Shut down connection with build server.
+2025.06.01 15:59:02 INFO  Exiting server

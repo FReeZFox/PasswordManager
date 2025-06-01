@@ -11,7 +11,7 @@ object PasswordManager extends JFXApp3 {
         root = MainView.createView()
       }
     }
-  }
+  } 
 }
 
 @main def run(): Unit = PasswordManager.main(Array.empty)

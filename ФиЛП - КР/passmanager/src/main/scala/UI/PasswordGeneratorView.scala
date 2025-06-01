@@ -14,6 +14,7 @@ object PasswordGeneratorView {
       snapToTicks = true
       majorTickUnit = 8
       minorTickCount = 7
+      focusTraversable = false
     }
 
     val checkboxes = Seq(
@@ -22,11 +23,16 @@ object PasswordGeneratorView {
       ("Цифры (0-9)", true),
       ("Спецсимволы (!@#...)", true)
     ).map { case (text, isSelected) =>
-      new CheckBox(text) { selected = isSelected }
+      new CheckBox(text) 
+      { 
+        selected = isSelected 
+        focusTraversable = false
+      }
     }
 
     val passwordField = new TextField {
       editable = false
+      focusTraversable = false
       contextMenu = new ContextMenu()
     }
 
@@ -53,6 +59,7 @@ object PasswordGeneratorView {
     slider.value.onChange { (_, _, _) => resetStream() }
 
     val generateButton = new Button("Сгенерировать") {
+      focusTraversable = false
       onAction = _ => {
         if (currentStream.isEmpty) {
           currentStream = PasswordGenerator.generate(
@@ -75,6 +82,7 @@ object PasswordGeneratorView {
     }
 
     val useButton = new Button("Использовать") {
+      focusTraversable = false
       onAction = _ =>
         Option(passwordField.text.value)
           .filter(_.nonEmpty)

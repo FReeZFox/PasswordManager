@@ -33,6 +33,7 @@ object PasswordFormView {
         new VBox(5, service, username, password),
         errorLabel,
         new HBox(10, new Button("Добавить") {
+          focusTraversable = false
           onAction = _ => PasswordForm.addEntry(
             service.text.value.trim,
             username.text.value.trim,
@@ -49,6 +50,7 @@ object PasswordFormView {
 
   private def createTextField(prompt: String): TextField = new TextField {
     promptText = prompt
+    focusTraversable = false
     contextMenu = {
       val field = this
       new ContextMenu(

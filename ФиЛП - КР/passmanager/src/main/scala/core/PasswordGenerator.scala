@@ -35,11 +35,7 @@ object PasswordGenerator {
             Vector
             .fill(length)(
               allChars(
-                random
-                .nextInt(
-                  allChars
-                  .length)
-                )
+                random.nextInt(allChars.length))
             ).mkString
           }
           
